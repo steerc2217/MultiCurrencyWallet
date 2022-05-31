@@ -1,0 +1,5943 @@
+[
+  {
+    "id": "menu.exchange",
+    "message": "거래소",
+    "files": [
+      "src/front/shared/components/Header/config.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/Header.tsx",
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "menu.history",
+    "message": "거래내역",
+    "files": [
+      "src/front/shared/components/Header/config.tsx"
+    ]
+  },
+  {
+    "id": "menu.wallet",
+    "message": "지갑",
+    "files": [
+      "src/front/shared/components/Header/config.tsx",
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx"
+    ]
+  },
+  {
+    "id": "menu.CreateWallet",
+    "message": "지갑 생성",
+    "files": [
+      "src/front/shared/components/Header/config.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx",
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "ConConfirm25firm20",
+    "message": "No",
+    "files": [
+      "src/front/shared/components/Confirm/Confirm.tsx"
+    ]
+  },
+  {
+    "id": "Confirm20",
+    "message": "Yes",
+    "files": [
+      "src/front/shared/components/Confirm/Confirm.tsx"
+    ]
+  },
+  {
+    "id": "CDC63",
+    "message": "당신이 가지고 있는",
+    "files": [
+      "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyDirectionChooser54",
+    "message": "거래 방향을 선택",
+    "files": [
+      "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyDirectionChooser86",
+    "message": "주문내역 보기",
+    "files": [
+      "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx"
+    ]
+  },
+  {
+    "id": "Loader21",
+    "message": "결재가 완료되기까지 3분에서 5분 정도 소요되니, 잠시만 기달려주세요. ",
+    "files": [
+      "src/front/shared/components/loaders/Loader/Loader.tsx"
+    ]
+  },
+  {
+    "id": "logo29",
+    "message": "홈으로",
+    "files": [
+      "src/front/shared/components/Header/Logo/Logo.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmOffer73",
+    "message": "추가",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/ConfirmOffer/ConfirmOffer.tsx"
+    ]
+  },
+  {
+    "id": "ExchangeRate14",
+    "message": "  =  ",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/ConfirmOffer/ExchangeRate/ExchangeRate.tsx"
+    ]
+  },
+  {
+    "id": "SaveKeysModal",
+    "message": "테스트넷 : 질문이 필요 없습니다.",
+    "files": [
+      "src/front/shared/components/modals/SaveKeysModal/SaveKeysModal.tsx"
+    ]
+  },
+  {
+    "id": "ErrorNotification12",
+    "message": "뭔가 잘못 되었네요! ",
+    "files": [
+      "src/front/shared/components/LimitOrders/Row.tsx",
+      "src/front/shared/components/notifications/ErrorNotification/ErrorNotification.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawModal11212",
+    "message": "진행 중...",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "Withdrow559",
+    "message": "로부터 이전",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "PreventMultiTabs",
+    "message": "에러, 많은 탭",
+    "files": [
+      "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
+    ]
+  },
+  {
+    "id": "SaveKe37",
+    "message": "키와 계정이 있는 텍스트 문건 다운로드",
+    "files": [
+      "src/front/shared/components/SaveKeys/SaveKeys.tsx"
+    ]
+  },
+  {
+    "id": "SaveKeys26",
+    "message": "나는 안전한 곳에 키를 저장하였습니다.",
+    "files": [
+      "src/front/shared/components/SaveKeys/SaveKeys.tsx"
+    ]
+  },
+  {
+    "id": "Tooltip11",
+    "message": "? ",
+    "files": [
+      "src/front/shared/components/ui/Tooltip/Tooltip.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory76",
+    "message": "리펀드는 불가능합니다.",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
+      "src/front/shared/pages/Marketmaker/SwapRow.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory91",
+    "message": "링크",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
+      "src/front/shared/pages/Marketmaker/SwapRow.tsx"
+    ]
+  },
+  {
+    "id": "SwapHisrory21",
+    "message": "스왑",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/SwapsHistory.tsx"
+    ]
+  },
+  {
+    "id": "MyOrders23",
+    "message": "당신이 제공한 것들",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "RowFeeds64",
+    "message": "복사!",
+    "files": [
+      "src/front/shared/components/ui/Copy/Copy.tsx"
+    ]
+  },
+  {
+    "id": "RowFeeds81",
+    "message": "수령",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/MyOrders/RowFeeds/RowFeeds.tsx"
+    ]
+  },
+  {
+    "id": "Home153",
+    "message": "아톰 스왑이 무엇인가요? ",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/Orders.tsx"
+    ]
+  },
+  {
+    "id": "Row157",
+    "message": "이 주문은 실행중입니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "Row165",
+    "message": "주문한 내역이 컨펌되기까지 잠시만 기달려주세요",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowM136",
+    "message": "재안",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowM139",
+    "message": "교환",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowM145",
+    "message": "이 주문은 실행중입니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowM153",
+    "message": "당신의 주문이 컨펌되기까지 기달려주세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "NotFound8",
+    "message": "페이지를 찾을 수 없습니다! ",
+    "files": [
+      "src/front/shared/pages/NotFound/NotFound.tsx"
+    ]
+  },
+  {
+    "id": "SwapController54",
+    "message": "다른 참여자는 온라인에 있습니다.",
+    "files": [
+      "src/front/shared/pages/Swap/SwapController.tsx"
+    ]
+  },
+  {
+    "id": "SwapController60",
+    "message": "다른 참가자가 오프라인 상태입니다",
+    "files": [
+      "src/front/shared/pages/Swap/SwapController.tsx"
+    ]
+  },
+  {
+    "id": "RowWallet181",
+    "message": "잔고가 컨펌되지 않았습니다",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "AddOffer396",
+    "message": "다음",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawButton32",
+    "message": "이 버튼을 클릭하면 필드에 사용자의 잔액에서 채굴기 커미션을 뺀 금액{br}이(가) 나타납니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks10",
+    "message": "작업 방식",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "AddOffer418",
+    "message": "커스텀 거래 수수료",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "AddOffer423",
+    "message": "부분거래 가능",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "MyOrdersYouSend",
+    "message": "보내기",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/Orders/MyOrders/MyOrders.tsx",
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "MyOrdersYouGet",
+    "message": "받기",
+    "files": [
+      "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx",
+      "src/front/shared/pages/Exchange/Orders/MyOrders/MyOrders.tsx"
+    ]
+  },
+  {
+    "id": "MyOrdersRate",
+    "message": "거래 수수료",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/MyOrders/MyOrders.tsx"
+    ]
+  },
+  {
+    "id": "orders102",
+    "message": "양",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx",
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx",
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "orders105",
+    "message": "가격",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "orders128",
+    "message": "제안을 생성",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "addoffer381",
+    "message": "팔기",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "addoffer396",
+    "message": "사기",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "addoffer406",
+    "message": "거래 수수료",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "Table95",
+    "message": "테이블이 비어져 있습니다.",
+    "files": [
+      "src/front/shared/components/tables/Table/Table.tsx"
+    ]
+  },
+  {
+    "id": "Table96",
+    "message": "읽는 중... ",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx",
+      "src/front/shared/components/tables/Table/Table.tsx",
+      "src/front/shared/containers/App/App.tsx"
+    ]
+  },
+  {
+    "id": "Reqstbttn16",
+    "message": "사기",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/RequestButton/RequestButton.tsx"
+    ]
+  },
+  {
+    "id": "ExchangeRate12",
+    "message": "거래 수수료",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/ConfirmOffer/ExchangeRate/ExchangeRate.tsx"
+    ]
+  },
+  {
+    "id": "amount",
+    "message": "거래소",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/ConfirmOffer/Amounts/Amounts.tsx"
+    ]
+  },
+  {
+    "id": "recieved67",
+    "message": "클립보드 복사",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx",
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory94",
+    "message": "완료",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
+      "src/front/shared/pages/Marketmaker/SwapRow.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory139",
+    "message": "멈춤",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
+      "src/front/shared/pages/Marketmaker/SwapRow.tsx"
+    ]
+  },
+  {
+    "id": "RowMobileYouGet",
+    "message": "갖다",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "Select210",
+    "message": "MAX",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "Withdrow1194",
+    "message": "주소",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "partial291",
+    "message": "다른 참가자가 참여하는 동안 기다리는 중(30초)",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "CDC52",
+    "message": "리스트 제안",
+    "files": [
+      "src/front/shared/components/CurrencyDirectionChooser/CurrencyDirectionChooser.tsx"
+    ]
+  },
+  {
+    "id": "add408",
+    "message": "거래 수수료율 변경",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "enterYouSend",
+    "message": "\"전송\" 금액 입력",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "swapDisabled",
+    "message": "스왑 불가능",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "noOffers",
+    "message": "제안 없음",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "selectFromAddress",
+    "message": "\"발신인 주소\"를 선택하십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "selectToAddress",
+    "message": "\"받는 사람\"을 선택하십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "enterToAddress",
+    "message": "목표지갑 입력",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "connectDestinationWallet",
+    "message": "목표지갑 연결",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "setDestination",
+    "message": "목표 설정",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "connectYourWallet",
+    "message": "\"발신인 주소\"에 지갑을 연결하십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "selectSendType",
+    "message": "\"보낸사람 주소\" 유형 선택",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "errorWithGetAmount",
+    "message": "\"얻습니다\" 0 이하",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "incorrectNetwork",
+    "message": "옯바른 네트워크 선택",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx",
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "lowAmount",
+    "message": "양이 적음",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "waitPeerAnswer",
+    "message": "동료들의 답변 기다리기",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "enterLesserAmount",
+    "message": "\"보내는 금액\"에 더 적은 금액을 입력하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "contactSupport",
+    "message": "서포트 팀 연결",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "partial255",
+    "message": "받기",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderSettings.tsx",
+      "src/front/shared/components/LimitOrders/index.tsx",
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Add52",
+    "message": "오퍼 제안",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/OfferModal.tsx"
+    ]
+  },
+  {
+    "id": "Confirm52",
+    "message": "오퍼 컨펌",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/OfferModal.tsx"
+    ]
+  },
+  {
+    "id": "ImCAUTIONport",
+    "message": "주의!",
+    "files": [
+      "src/front/shared/components/modals/PrivateKeysModal/PrivateKeysModal.tsx"
+    ]
+  },
+  {
+    "id": "Receive",
+    "message": "받다",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory281",
+    "message": "{address}을(를) 받았습니다",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory282",
+    "message": "전송 된 {address}",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "fromRow",
+    "message": "로부터",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "toRow",
+    "message": "에게",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory283",
+    "message": "스스로",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory34",
+    "message": "컨펌",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory341",
+    "message": "컨펌",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory342",
+    "message": "비컨펌",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "timer68",
+    "message": "리펀드 준비",
+    "files": [
+      "src/front/shared/pages/Swap/Timer/Timer.tsx"
+    ]
+  },
+  {
+    "id": "PartialPriceNoOrdersReduce",
+    "message": "찾을 수 없습니다. 나중에 다시 하거나 화폐 쌍을 변경하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "PartialPriceNoOrdersReduceAllInfo",
+    "message": "이 트레이드 주문은 마켓 유동성보다 더 많은 양입니다. 총 양을 줄이세요 {maxForSell}. ",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "PartialOfferCantProceed1",
+    "message": "주문이 거절되었습니다. {link}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "PartialOfferCantProceed1_1",
+    "message": "왜?",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "ErrorBtcLowAmount",
+    "message": "{btcAmount} BTC - 이 양은 매우 적습니다. 마아닝 비용처리가 안됩니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "UseAnotherWallet",
+    "message": "특별히 수신될 지갑 주소",
+    "files": [
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "partial462",
+    "message": "스왑 지갑 또는 외부지갑으로 거래소에서 교환하기를 원하는 양",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "partial478",
+    "message": "거래 후 받게 될 양",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "partial541",
+    "message": "거래하기",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "partial767",
+    "message": "잔고: ",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx"
+    ]
+  },
+  {
+    "id": "partialVideoAndFeatures0",
+    "message": "아톰 스왑 테크날로지 기반",
+    "files": [
+      "src/front/shared/pages/Exchange/VideoAndFeatures/VideoAndFeatures.tsx"
+    ]
+  },
+  {
+    "id": "partialVideoAndFeatures1",
+    "message": "거래는 2분 정도 소요됩니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/VideoAndFeatures/VideoAndFeatures.tsx"
+    ]
+  },
+  {
+    "id": "partialVideoAndFeatures2",
+    "message": "BTC, ETH, USDT, ERC20 토큰을 지원합니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/VideoAndFeatures/VideoAndFeatures.tsx"
+    ]
+  },
+  {
+    "id": "partialVideoAndFeatures3",
+    "message": "거래 서비스를 제공할 다른 웹사이트가 제공되나요?",
+    "files": [
+      "src/front/shared/pages/Exchange/VideoAndFeatures/VideoAndFeatures.tsx"
+    ]
+  },
+  {
+    "id": "down57",
+    "message": "노트패드 텍스트 공간에 프라이빗키를 입력하고 저장하세요. .txt 파일로 다운로드 받으실 수도 있습니다.",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
+    ]
+  },
+  {
+    "id": "downFile2",
+    "message": "txt 파일 다운로드",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
+    ]
+  },
+  {
+    "id": "down97",
+    "message": "프라이빗 키!",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
+    ]
+  },
+  {
+    "id": "Reqstbttn22",
+    "message": "을 위한",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/RequestButton/RequestButton.tsx"
+    ]
+  },
+  {
+    "id": "downloadModal75",
+    "message": "주소:",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
+    ]
+  },
+  {
+    "id": "downloadModal782",
+    "message": "프라이빗 키",
+    "files": [
+      "src/front/shared/components/modals/DownloadModal/DownloadModal.tsx"
+    ]
+  },
+  {
+    "id": "PreventMultiTabs12",
+    "message": "우리 서비스는 하나의 활성 탭만 지원합니다.\n 이 탭을 계속 사용하거나 닫으려면 이 페이지를 다시 로드하십시오.",
+    "files": [
+      "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
+    ]
+  },
+  {
+    "id": "addOfferPartialTooltip",
+    "message": "교환 요청 또는 판매하고자 하는 총 금액 {p}보다 적은 금액 {p}을(를) 받게 됩니다. 예를 들어, 1 BTC를 판매하려는 경우 다른 사용자가 0.1, 0.5 BTC에 대한 교환 요청 {p}을(를) 보낼 수 있습니다.",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "WTH275",
+    "message": "자금을 보낼 지갑이 {currency}를 지원하는지 확인하십시오",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "SaveKeys235",
+    "message": "이것들은 당신의 개인 열쇠입니다. 버튼을 클릭하거나 이 페이지의 스크린샷을 찍어 키를 다운로드한 다음 확인하고 여기를 클릭하십시오.",
+    "files": [
+      "src/front/shared/components/SaveKeys/SaveKeys.tsx"
+    ]
+  },
+  {
+    "id": "orders156",
+    "message": "여기에서 {currency} 구매",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "orders159",
+    "message": "{currency} 제안",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawButton322",
+    "message": "잔액이 0이기 때문에 이 자산을 보낼 수 없습니다.",
+    "files": [
+      "src/front/shared/components/controls/WithdrawButton/BtnTooltip.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyButton41",
+    "message": "이 암호화폐를 지갑에 넣어주세요.",
+    "files": [
+      "src/front/shared/components/controls/CurrencyButton/CurrencyButton.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyButton42",
+    "message": "잔액이 0이기 때문에 이 자산을 보낼 수 없습니다.",
+    "files": [
+      "src/front/shared/components/controls/CurrencyButton/CurrencyButton.tsx"
+    ]
+  },
+  {
+    "id": "Areyousure",
+    "message": "확실합니까?",
+    "files": [
+      "src/front/shared/components/modals/SaveKeysModal/SaveKeysModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveKeysModal_Title",
+    "message": "개인 키 내보내기",
+    "files": [
+      "src/front/shared/components/modals/SaveKeysModal/SaveKeysModal.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawIncorectAddress",
+    "message": "주소가 정확하지 않습니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "Withdrow170",
+    "message": "Maximum amount you can send is {allowedBalance} {currency}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "ExchangeTitleTag1",
+    "message": "가장 빠른 교체 체인 스왑",
+    "files": [
+      "src/front/shared/pages/Exchange/Promo/Promo.tsx"
+    ]
+  },
+  {
+    "id": "orders104",
+    "message": "전체",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "orders1381",
+    "message": "{buyCurrency} 🔁 {sellCurrency}",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "orders1382",
+    "message": "모두",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "currencyIcon15",
+    "message": "에러",
+    "files": [
+      "src/front/shared/components/ui/CurrencyIcon/CurrencyIcon.tsx"
+    ]
+  },
+  {
+    "id": "Withdrow213",
+    "message": "Please note: Fee is {minAmount} {data}.{br}Your balance must exceed this sum to perform transaction.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawModal256",
+    "message": "No less than {minAmount}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawModalErrorSend",
+    "message": "{errorName} {currency}:{br}{errorMessage}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory77",
+    "message": "리펀드 됨",
+    "files": [
+      "src/front/shared/pages/History/SwapsHistory/RowHistory/RowHistory.tsx",
+      "src/front/shared/pages/Marketmaker/SwapRow.tsx"
+    ]
+  },
+  {
+    "id": "timer671",
+    "message": "{min} minute left for refund",
+    "files": [
+      "src/front/shared/pages/Swap/Timer/Timer.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyWallet154",
+    "message": "Atomic Swap Wallet allows you to manage and securely exchange ${fullName} (${currency}) with 0% fees. Based on Multi-Sig and Atomic Swap technologies.",
+    "files": [
+      "src/front/shared/pages/CurrencyWallet/CurrencyWallet.tsx"
+    ]
+  },
+  {
+    "id": "Orders121",
+    "message": "Atomic Swap {buyCurrencyFullName} ({buyCurrency}) to {sellCurrencyFullName} ({sellCurrency}) Instant Exchange",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "Orders127",
+    "message": "Best exchange rate for {buyCurrencyFullName} ({buyCurrency}) to {sellCurrencyFullName} ({sellCurrency}). Swap.Online wallet provides instant exchange using Atomic Swap Protocol.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "RowWallet276",
+    "message": "노드가 다운되었습니다.",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "ErrorNotification151",
+    "message": "에러: {error}",
+    "files": [
+      "src/front/shared/components/notifications/ErrorNotification/ErrorNotification.tsx"
+    ]
+  },
+  {
+    "id": "deposit165",
+    "message": "To continue the swap copy this address and top it up with {missingBalance}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit297",
+    "message": "익스플로러에서 보기",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit177",
+    "message": "Do not top up the contract with the greater amount than recommended. {br} The remaining balance will be send to the counter party. {br} You can send {tokenName} from a wallet of any exchange",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit239",
+    "message": "Swap will continue after {tokenName} contract receives the funds. {br} Is usually takes less than 10 min",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit198",
+    "message": "결재를 기다리는 중...",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit198.1",
+    "message": "create Ethereum Contract. \n Please wait, it can take a few minutes...",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "ReceiveModal50",
+    "message": "This is your {currency} address",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "userTooltip43",
+    "message": "User ({reputation}) wants to swap",
+    "files": [
+      "src/front/shared/components/Header/UserTooltip/UserTooltip.tsx"
+    ]
+  },
+  {
+    "id": "FeeControler48",
+    "message": "복사됨!",
+    "files": [
+      "src/front/shared/pages/Swap/FeeControler/FeeControler.tsx"
+    ]
+  },
+  {
+    "id": "FeeControler49",
+    "message": "복사",
+    "files": [
+      "src/front/shared/components/modals/PrivateKeysModal/PrivateKeysModal.tsx",
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx",
+      "src/front/shared/pages/LocalStorage/LocalStorage.tsx",
+      "src/front/shared/pages/Swap/FeeControler/FeeControler.tsx"
+    ]
+  },
+  {
+    "id": "FeeControler68",
+    "message": "Not enough ETH on your balance for miner fee.{br}{br}Deposit {gasAmountNeeded} ETH to your account",
+    "files": [
+      "src/front/shared/pages/Swap/FeeControler/FeeControler.tsx"
+    ]
+  },
+  {
+    "id": "FailControler68",
+    "message": "Error in the execution of the token contract!{br}{br}Perhaps there is an additional commission on the contract side or the error occured for another reason",
+    "files": [
+      "src/front/shared/pages/Swap/FailControler/FailControler.tsx"
+    ]
+  },
+  {
+    "id": "BtcToEthToken123",
+    "message": "스왑이 완료되었습니다!!",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/FourthStep.tsx"
+    ]
+  },
+  {
+    "id": "swapFinishedGoHome289",
+    "message": "선택 완료",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swapFinishedGoHome298",
+    "message": "모든 것이 정상입니다. 계속",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swapprogress254",
+    "message": "리펀드 트렌젝션:",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swapprogress270",
+    "message": "리펀드 시도",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swapprogress271",
+    "message": "잠시 후 시도하십시요.",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress333",
+    "message": "리펀드 핵스 트렌젝션:",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "SwapStuck",
+    "message": "스왑이 안되나요? 다시 해보세요 ",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "SwapDebug",
+    "message": "디버그",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "SwapOr",
+    "message": " 또는 ",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "SwapReload",
+    "message": "페이지 다시 읽기",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress193",
+    "message": "Sign ETH transaction: {transaction}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress207",
+    "message": "{transaction}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress218",
+    "message": "{transaction}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "withdrowTitle271",
+    "message": "보내기",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "PreventMultiTabsWidgetBuild",
+    "message": "{widgetName} 하나의 활성 탭만 지원합니다. 계속할려면 열려 있는 창을 닫고 새로 여십시요.",
+    "files": [
+      "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyWalletTitle",
+    "message": "Swap.Online - {fullName} ({currency}) 아톰 스왑 사용하는 웹 지갑.",
+    "files": [
+      "src/front/shared/pages/CurrencyWallet/CurrencyWallet.tsx"
+    ]
+  },
+  {
+    "id": "CurrencyWalletWidgetBuildTitle",
+    "message": "{fullName} ({currency}) 아톰 스왑 사용하는 웹 지갑.",
+    "files": [
+      "src/front/shared/pages/CurrencyWallet/CurrencyWallet.tsx"
+    ]
+  },
+  {
+    "id": "deposit256",
+    "message": "The address of {tokenName} smart contract",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "transaction444",
+    "message": "판매 금액은 다음보다 커야 합니다.",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "transaction450",
+    "message": "구매 금액은 다음보다 커야 합니다.",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "deposit300",
+    "message": "Received {balance} / {need} {tooltip}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "deposit320",
+    "message": "(included {mineerFee} {sellCurrency} miners fee)",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "BtcToEthToken24",
+    "message": "입금",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/SecondStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "FourthStep52",
+    "message": "({otherCurrency} tx)",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/SecondStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "FourthStep34",
+    "message": "({sell} tx)",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
+    ]
+  },
+  {
+    "id": "thirdStep24",
+    "message": "출금",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
+    ]
+  },
+  {
+    "id": "confirmDialogDefaultMessage",
+    "message": "이 사이트에서 실행을 확인합니까?",
+    "files": [
+      "src/front/shared/components/modals/Confirm/Confirm.tsx",
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "confirmDialogDefaultNo",
+    "message": "No",
+    "files": [
+      "src/front/shared/components/modals/Confirm/Confirm.tsx",
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "confirmDialogDefaultTitle",
+    "message": "액션을 확인합니다.",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx",
+      "src/front/shared/components/modals/Confirm/Confirm.tsx",
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "confirmDialogDefaultYes",
+    "message": "Yes",
+    "files": [
+      "src/front/shared/components/modals/Confirm/Confirm.tsx",
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "orders94s",
+    "message": "이 주문을 지우는 것이 확실합니까?",
+    "files": [
+      "src/front/shared/components/LimitOrders/index.tsx",
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "ordersRow101",
+    "message": "사기",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "ordersRow134",
+    "message": "Do you want to {action} {amount} {main} for {total} {base} at price {price} {main}/{base}?",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "ordersRow97",
+    "message": "팔기",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "deposit165widget",
+    "message": "아래 주소를 복사하고 권장량만큼 입금하세요{missingBalance}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "userTooltip71",
+    "message": "피드 페이지로 이동",
+    "files": [
+      "src/front/shared/components/Header/UserTooltip/UserTooltip.tsx"
+    ]
+  },
+  {
+    "id": "decline21",
+    "message": "거절된 주문입니다!",
+    "files": [
+      "src/front/shared/components/modals/DeclineOrdersModal/DeclineOrdersModal.tsx"
+    ]
+  },
+  {
+    "id": "decline43",
+    "message": "죄송합니다. 이전에 시작된 스왑을 완료할 때까지 시작할 수 없습니다.",
+    "files": [
+      "src/front/shared/components/modals/DeclineOrdersModal/DeclineOrdersModal.tsx"
+    ]
+  },
+  {
+    "id": "decline49",
+    "message": "불완전한 스왑 보기",
+    "files": [
+      "src/front/shared/components/modals/DeclineOrdersModal/DeclineOrdersModal.tsx"
+    ]
+  },
+  {
+    "id": "Incompleted21",
+    "message": "완료되지 않은 스왑",
+    "files": [
+      "src/front/shared/components/modals/IncompletedSwaps/IncompletedSwaps.tsx"
+    ]
+  },
+  {
+    "id": "IncompletedSwaps49",
+    "message": "스왑 완료 필요",
+    "files": [
+      "src/front/shared/components/modals/IncompletedSwaps/IncompletedSwaps.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress327",
+    "message": "이 스왑은 취소되었습니다.",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress400",
+    "message": "리펀드는 자동으로 실행됩니다.",
+    "files": [
+      "src/front/shared/pages/Swap/Swap.tsx"
+    ]
+  },
+  {
+    "id": "swapprogressDONTLEAVE",
+    "message": "이 페이지를 비우지 마세요 ",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
+    ]
+  },
+  {
+    "id": "swapjsdontleave",
+    "message": "교환을 사용하려면 브라우저만 알고 있는 개인 키로 서명해야 합니다.",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
+    ]
+  },
+  {
+    "id": "Confirmation14",
+    "message": "확인",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/FirstStep.tsx"
+    ]
+  },
+  {
+    "id": "swappropgress192",
+    "message": "당신의 돈을 어떻게 환불합니까?",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "IncompletedSwaps55",
+    "message": "데이터가 처리되었습니다. 페이지를 다시 로드하십시오.",
+    "files": [
+      "src/front/shared/components/modals/IncompletedSwaps/IncompletedSwaps.tsx"
+    ]
+  },
+  {
+    "id": "select75",
+    "message": "교환 가능: {availableBalance} {tooltip}",
+    "files": [
+      "src/front/shared/components/SelectGroup/index.tsx"
+    ]
+  },
+  {
+    "id": "selected53",
+    "message": "외부 지갑을 사용하여 스왑을 수행할 수 있습니다.",
+    "files": [
+      "src/front/shared/components/SelectGroup/index.tsx"
+    ]
+  },
+  {
+    "id": "SecondStep",
+    "message": "이 단계에서는 암호화가 사용자의 지갑 {br}이나 상대방 지갑으로 넘어가지 않고 스왑 계약으로 직접 이동합니다.",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/SecondStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "thirdStep",
+    "message": "Оn this step crypto is transferred from {br}the contract to your wallet and to the wallet {br} of your counterparty {br}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
+    ]
+  },
+  {
+    "id": "CustomWalletIsNotCorrect",
+    "message": "지갑 주소가 잘못되었습니다.",
+    "files": [
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLink",
+    "message": "BTC-멀티사인 지갑 만들기",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLinkMessage",
+    "message": "지갑의 두 번째 소유자에게 이 링크를 보냅니다.",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "Select23",
+    "message": "25%",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/Select/Select.tsx"
+    ]
+  },
+  {
+    "id": "Select25",
+    "message": "50%",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/Select/Select.tsx"
+    ]
+  },
+  {
+    "id": "Select30",
+    "message": "75%",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/Select/Select.tsx"
+    ]
+  },
+  {
+    "id": "Select40",
+    "message": "100%",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/Select/Select.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_WithdrawRequest",
+    "message": "BTC 다중 서명 지갑에서 요청 인출",
+    "files": [
+      "src/front/shared/components/notifications/BTCMultisignRequest/BTCMultisignRequest.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_WithdrawRequestInfo",
+    "message": "Send {amount} {currency} to wallet {address}",
+    "files": [
+      "src/front/shared/components/notifications/BTCMultisignRequest/BTCMultisignRequest.tsx"
+    ]
+  },
+  {
+    "id": "PreventMultiTabsSwitchApp",
+    "message": "다른 탭을 닫고 여기서 계속하십시오.",
+    "files": [
+      "src/front/shared/components/PreventMultiTabs/PreventMultiTabs.tsx"
+    ]
+  },
+  {
+    "id": "createWalletHeader1",
+    "message": "지갑 생성",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "createWalletButton1",
+    "message": "계속하다.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx",
+      "src/front/shared/pages/CreateWallet/Steps/FirstStep.tsx"
+    ]
+  },
+  {
+    "id": "createWalletCapture1",
+    "message": "비트코인, 이더리움, 스왑, 토큰 중에서 선택하세요.",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
+    ]
+  },
+  {
+    "id": "createWalletCapture2",
+    "message": "보안이 없음, 문자, 구글 Auth, 멀티시그",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
+    ]
+  },
+  {
+    "id": "createWalletSubHeader1",
+    "message": "현재 월렛 선택하기",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
+    ]
+  },
+  {
+    "id": "createWalletSubHeader2",
+    "message": "현재 월렛 보안단계 선택하기",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/texts.tsx"
+    ]
+  },
+  {
+    "id": "createWalletActivated",
+    "message": "활성화됨!",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "createWalletButton3",
+    "message": "지갑 생성",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "createWalletSoon",
+    "message": "곧!",
+    "files": [
+      "src/front/shared/pages/CreateWallet/Steps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks18",
+    "message": "1. 당신의 암호화폐와 금액을 선택하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks21",
+    "message": "외부 지갑, 교환 또는 온라인 스왑 지갑에서 원하는 대로 사용할 수 있는 암호화폐를 선택하십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks26",
+    "message": "2. \"교환\"을 클릭합니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks29",
+    "message": "적합한 주문이 발견되고 판매자가 교환을 확인하면 교환 페이지로 리디렉션됩니다",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks34",
+    "message": "3. 암호화폐 예금을 하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks37",
+    "message": "내부 지갑에 필요한 금액이 있는 경우 자동으로 입금이 실행됩니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks42",
+    "message": "4. 스왑 완료를 확인합니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "HowItWorks45",
+    "message": "교환은 보통 1분 정도 걸립니다. 스왑이 끝나면 txd가 표시되고 전송 완료를 확인할 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/HowItWorks/HowItWorks.tsx"
+    ]
+  },
+  {
+    "id": "Quote",
+    "message": "스왑온라인 프로젝트는 비트코인 유사, 이더리움 유사 간 스왑을 실현하고 사용자가 스왑을 실행할 수 있는 제품을 만들었습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/Quote/index.tsx"
+    ]
+  },
+  {
+    "id": "swapjsdontleavesavesecret",
+    "message": "당신이 이 페이지를 떠나고 싶다면 비밀을 저장하세요.",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
+    ]
+  },
+  {
+    "id": "swapprogressDONTLEAVEBTC",
+    "message": "또는 떠나기 전에 이 암호를 저장하십시오:",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/PleaseDontLeaveWrapper.tsx"
+    ]
+  },
+  {
+    "id": "timerSwapIsCancelled",
+    "message": "시간 초과로 인해 스왑이 취소되었습니다.",
+    "files": [
+      "src/front/shared/pages/Swap/Timer/Timer.tsx"
+    ]
+  },
+  {
+    "id": "timerTimeToCancel",
+    "message": "You have {min} min to make a payment",
+    "files": [
+      "src/front/shared/pages/Swap/Timer/Timer.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawMSUserFinish",
+    "message": "준비가 되어 있습니다!",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx",
+      "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawMSUserMessage",
+    "message": "다른 지갑 소유자에게 이 링크 보내기",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawMSUserReady",
+    "message": "TX 확인 링크",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxGoToWallet",
+    "message": "지갑으로 가세요.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxInputs",
+    "message": "트랜잭션 입력",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxOutputs",
+    "message": "트랜잭션 출력",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxReady",
+    "message": "거래가 서명되어 블록체인으로 전송됩니다.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxSign",
+    "message": "거래 서명",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_ConfirmTxTitle",
+    "message": "거래확인",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletAdd",
+    "message": "이 지갑 추가",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletLoading_descroptio",
+    "message": "이 지갑으로 보낸 돈은 사용자의 확인 없이는 사용할 수 없습니다(개인용 12단어 암호를 저장하십시오).",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletLinkReady",
+    "message": "지갑이 만들어집니다. 확인을 위해 이 링크를 두 번째 소유자에게 보냅니다.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletLoading",
+    "message": "로드 중... 기다려 주세요.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletReady",
+    "message": "지갑이 준비되었습니다.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletReadyButton",
+    "message": "준비. 지갑을 여세요.",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx",
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletTitle",
+    "message": "BTC 다중 서명 지갑 만들기",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_CreateWalletWait",
+    "message": "지갑을 만드는 중... 기다려 주세요.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_WaitOtherSide",
+    "message": "상대방을 기다리는 중...",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_WalletAddress",
+    "message": "지갑 주소:",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_WalletBalance",
+    "message": "지갑잔액",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "deposit312",
+    "message": "복사",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/DepositWindow/DepositWindow.tsx"
+    ]
+  },
+  {
+    "id": "swapProgressGoToTxPage",
+    "message": "익스플로러에서 TX보기",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "swapProgressGoToWallet",
+    "message": "잔액 조회",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx",
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "walletMultisignNotJoined",
+    "message": "가입되지 않음 ",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "Withdrow2223",
+    "message": "SMS 코드"
+  },
+  {
+    "id": "Withdrow2224",
+    "message": "컨펌"
+  },
+  {
+    "id": "partial-tour-2",
+    "message": "이 필드에 통화를 선택하고 판매하려는 금액을 입력합니다. 외부 지갑으로 화폐를 판매할 수도 있습니다.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "partial-tour-3",
+    "message": "이 필드에서 통화를 선택하고 구매하려는 금액을 입력합니다.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "partial-tour-4",
+    "message": "여기서 교환 오퍼의 검색 상태를 볼 수 있습니다. 로드 시 '주문 검색 중...'이 나옵니다. 주문을 찾으신 후 환율을 확인해주세요.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "partial-tour-5",
+    "message": "환전 후 내부 Swap.online 지갑 또는 다른 지갑으로 자금을 수령하려면 이 버튼을 전환하십시오.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "partial-tour-6",
+    "message": "트랜잭션의 직접 URL을 보려면 이 단추를 전환하십시오. 버튼이 분홍색일 때 사용 가능합니다.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "partial-tour-7",
+    "message": "주문서 페이지를 보려면 이 버튼을 누르세요. 주문은 특정 통화로 표시됩니다. 주문 북 페이지에서 주문을 직접 작성할 수도 있습니다.",
+    "files": [
+      "src/front/shared/components/Header/TourPartial/TourPartial.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-1",
+    "message": "선택 통화의 잔액은 필드 끝, 통화 반대편에 표시됩니다. 브라우저를 닫고 컴퓨터를 다시 로드할 수 있습니다. 당신의 잔액은 그대로 유지될 것입니다. 열쇠 보관하는 거 잊지 마세요.",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-1.1",
+    "message": "전체 계좌 잔고",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-1.2",
+    "message": "버튼을 누르면 잔액을 보충할 수 있습니다.",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-2",
+    "message": "비트코인, 이더리움, 비트코인캐시, 라이트코인 등 다양한 블록체인 통화를 저장할 수 있다.",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-3",
+    "message": "우리의 독특한 P2P 교환은 아토믹 스왑 기술을 기반으로 만들어진 지갑에서 사용할 수 있습니다. 당신은 우리의 지갑에 당신의 암호화폐를 넣을 수 있습니다.",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "tour-step-4",
+    "message": "계정 업데이트(주문, 거래)에 대한 알림과 프로젝트에 대한 월간 뉴스를 받으실 수 있습니다.",
+    "files": [
+      "src/front/shared/components/Header/WalletTour/WalletTour.tsx"
+    ]
+  },
+  {
+    "id": "alertDialogDefaultMessage",
+    "message": "알려 드립니다.",
+    "files": [
+      "src/front/shared/components/modals/Alert/AlertModal.tsx"
+    ]
+  },
+  {
+    "id": "alertDialogDefaultOk",
+    "message": "Ok",
+    "files": [
+      "src/front/shared/components/modals/Alert/AlertModal.tsx"
+    ]
+  },
+  {
+    "id": "alertDialogDefaultTitle",
+    "message": "정보",
+    "files": [
+      "src/front/shared/components/modals/Alert/AlertModal.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockChooseFeeRate",
+    "message": "수수료율선택:",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceLinkCopied",
+    "message": "링크 복사됨",
+    "files": [
+      "src/front/shared/components/modals/InvoiceLinkModal/InvoiceLinkModal.tsx",
+      "src/front/shared/components/modals/Share/Share.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceLinkCopy",
+    "message": "이 링크 복사",
+    "files": [
+      "src/front/shared/components/modals/InvoiceLinkModal/InvoiceLinkModal.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceLinkModalInfo",
+    "message": "이것은 송장 링크입니다.",
+    "files": [
+      "src/front/shared/components/modals/InvoiceLinkModal/InvoiceLinkModal.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawModalCancelBtn",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx",
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceLinkModal_Title",
+    "message": "송장 링크",
+    "files": [
+      "src/front/shared/components/modals/InvoiceLinkModal/InvoiceLinkModal.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2",
+    "message": "로 옮겨진",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_3",
+    "message": "트랜잭션 ID",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_4",
+    "message": "예상 확인 시간",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "createWalletCaptureOthers",
+    "message": "또는 기타 통화"
+  },
+  {
+    "id": "invoiceModal_Contact",
+    "message": "Your contact (email or @nickname)",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Address",
+    "message": "누가 돈을 내느냐",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Error",
+    "message": "{errorName} {currency}:{br}{errorMessage}",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_IncorrectAddress",
+    "message": "잘못된 주소",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Label",
+    "message": "댓글",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Processing",
+    "message": "처리...",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Submit",
+    "message": "청구서 제출",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_Title",
+    "message": "입금계산서",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_addressPlaceholder",
+    "message": "Enter {currency} wallet address",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_amountPlaceholder",
+    "message": "금액을 입력하십시오.",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_destiAddress",
+    "message": "지불처를 지정하다.",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_destiAddressPlaceholder",
+    "message": "Enter {currency} wallet address",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_labelPlaceholder",
+    "message": "송장에 대한 의견",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawModalInvoiceSaveTx",
+    "message": "유료 표시",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "WithdrowOwnTX",
+    "message": "Or enter the link to the transaction (txid)",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "withdrawOwnTxPlaceholder",
+    "message": "다른 출처에서 지불한 경우",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcMultisig/WithdrawBtcMultisig.tsx",
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryCancelInvoice",
+    "message": "거절하다",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/MyOrders/RowFeeds/RowFeeds.tsx",
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryInvoce",
+    "message": "Invoice #{number}",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryInvoiceAddress",
+    "message": "결제 주소:",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryInvoiceCancelled",
+    "message": "거절하다",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryInvoicePayed",
+    "message": "유급의",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryPayInvoice",
+    "message": "지불하다",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Action_Hidden",
+    "message": "지갑이 숨겨져 있다.",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Action_HideNonZero_Message",
+    "message": "이 지갑은 잔액이 플러스입니다. 다 티 난다.",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_ActivateSMSProtected",
+    "message": "작동시키다"
+  },
+  {
+    "id": "WalletRow_Menu_BTCMS_GenerateJoinLink",
+    "message": "조인 링크 생성",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Deposit",
+    "message": "보증금",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Hide",
+    "message": "그럴 수 있다",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_History",
+    "message": "역사",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Invoice",
+    "message": "청구서",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_InvoiceLink",
+    "message": "송장 작성을 위한 링크 가져오기",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Send",
+    "message": "보내기",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Сopy",
+    "message": "Copy address",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_Сopy_PrivateKey",
+    "message": "Copy private key",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "currencyAction81",
+    "message": "Please choose a currency you want to {context}",
+    "files": [
+      "src/front/shared/components/modals/CurrencyAction/CurrencyAction.tsx"
+    ]
+  },
+  {
+    "id": "back",
+    "message": "뒤로",
+    "files": [
+      "src/front/shared/components/TourWindow/index.tsx",
+      "src/front/shared/components/modals/OfferModal/ConfirmOffer/ConfirmOffer.tsx"
+    ]
+  },
+  {
+    "id": "closeTourWindow",
+    "message": "가까운",
+    "files": [
+      "src/front/shared/components/TourWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "nextTourWindow",
+    "message": "다음 분",
+    "files": [
+      "src/front/shared/components/TourWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "skip",
+    "message": "Skip",
+    "files": [
+      "src/front/shared/components/TourWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "continueDeclined977",
+    "message": "스왑 계속",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "chooseCorrectNetwork",
+    "message": "연결된 지갑을 열고 선택하십시오{br}{chainName}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "switchToCorrectNetwork",
+    "message": "로 전환 {br}{chainName}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Yourtotalbalance",
+    "message": "총 잔액",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx"
+    ]
+  },
+  {
+    "id": "YourtotalbalanceDeposit",
+    "message": "입금",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx"
+    ]
+  },
+  {
+    "id": "YourtotalbalanceSend",
+    "message": "보내기",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx"
+    ]
+  },
+  {
+    "id": "YourAssets",
+    "message": "고객 자산들",
+    "files": [
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "ForYou",
+    "message": "당신을 위해서",
+    "files": [
+      "src/front/shared/pages/Wallet/WallerSlider/index.tsx"
+    ]
+  },
+  {
+    "id": "YourAssetsDescription",
+    "message": "여기에 안전하게 저장할 수 있습니다. 보내고 받을 수 있는 계좌들입니다",
+    "files": [
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "addAsset",
+    "message": "화폐 추가",
+    "files": [
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "addCustomToken",
+    "message": "사용자 정의 토큰 추가",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx",
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "MybalanceswalletNav",
+    "message": "보내기",
+    "files": [
+      "src/front/shared/pages/Invoices/InvoicesList/index.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoBlockOpenDesktopApp",
+    "message": "외부 지갑에서 결제",
+    "files": [
+      "src/front/shared/components/InvoiceInfoBlock/InvoiceInfoBlock.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoBlockTitle",
+    "message": "Payment of invoice #{id}-{invoiceNumber}",
+    "files": [
+      "src/front/shared/components/InvoiceInfoBlock/InvoiceInfoBlock.tsx"
+    ]
+  },
+  {
+    "id": "customTokenAddress",
+    "message": "토큰 주소 ",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customTokenConfirm",
+    "message": "이 토큰 추가",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customTokenIncorrectAddress",
+    "message": "잘못된 주소",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "NextId",
+    "message": "Nеxt",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customTokenNotFound",
+    "message": "This is not {standard} address",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customTokenAdded",
+    "message": "토큰이 추가되었습니다",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customERC20_Title",
+    "message": "새 토큰 추가",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "DecimalsId",
+    "message": "십진법",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "SymbolId",
+    "message": "기호",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "TitleId",
+    "message": "제목",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customERC20_addressPlaceholder",
+    "message": "토큰 주소 입력",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "customERC20_searchPlaceholder",
+    "message": "토큰 이름 또는 기호 입력",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "addByAddress",
+    "message": "주소별",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "addBySearch",
+    "message": "검색으로",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "selectedTokenTitle",
+    "message": "토큰",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "selectedAssetHaveNotChains",
+    "message": "이 자산에는 지원되는 네트워크에 토큰 주소가 없습니다",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "noSearchingResult",
+    "message": "{searchQuery} 에 대한 결과가 없습니다",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "invoiceModal_contactPlaceholder",
+    "message": "필수의",
+    "files": [
+      "src/front/shared/components/modals/InvoiceModal/InvoiceModal.tsx"
+    ]
+  },
+  {
+    "id": "HistoryRowInvoiceStatusNew",
+    "message": "펜딩",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "btcmsSwitchFetchWalletsData",
+    "message": "가져오는 중 ...",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignSwitch/BtcMultisignSwitch.tsx"
+    ]
+  },
+  {
+    "id": "btcmsSwitchFetchWalletsEmpty",
+    "message": "BTC 다중 서명 지갑이 없습니다.",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignSwitch/BtcMultisignSwitch.tsx"
+    ]
+  },
+  {
+    "id": "btcmsSwitchTitle",
+    "message": "연결된 BTC-멀티사인 지갑",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignSwitch/BtcMultisignSwitch.tsx"
+    ]
+  },
+  {
+    "id": "SwitchBtcMultisigMenuRemove",
+    "message": "제거한다",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignSwitch/WalletRow.tsx"
+    ]
+  },
+  {
+    "id": "SwitchBtcMultisigMenuSwitch",
+    "message": "전환",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignSwitch/WalletRow.tsx"
+    ]
+  },
+  {
+    "id": "ShareModal1",
+    "message": "Copy Link",
+    "files": [
+      "src/front/shared/components/modals/Share/Share.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_BTCMS_SwitchMenu",
+    "message": "지갑 전환",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RequestPayment",
+    "message": "결제 요청",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx"
+    ]
+  },
+  {
+    "id": "ControlShareLink_CopyLink",
+    "message": "Copy link",
+    "files": [
+      "src/front/shared/components/controls/ShareLink/ShareLink.tsx"
+    ]
+  },
+  {
+    "id": "ControlShareLink_LinkCopied",
+    "message": "링크 복사됨",
+    "files": [
+      "src/front/shared/components/controls/ShareLink/ShareLink.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_ConfirmTx",
+    "message": "확인",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_DismatchTx",
+    "message": "거부",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_NoticeFetching",
+    "message": "읽는 중...",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_Title",
+    "message": "BTC 다중 서명 트랜잭션 확인",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_UpNotice",
+    "message": "거래를 검토하고 확인합니다. 취소에 반대하면 거래를 거부하십시오.",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "registerSMSMPlaceHolder",
+    "message": "암호 구문(12단어)",
+    "files": [
+      "src/front/shared/components/Header/Header.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawSMS_BroadcastError",
+    "message": "브로드캐스트 트랜잭션 실패 ({errorText})"
+  },
+  {
+    "id": "WithdrawSMS_FailSignByMnemonic",
+    "message": "실패 부호 트랜잭션"
+  },
+  {
+    "id": "WithdrawSMS_NotValidMnemonic",
+    "message": "암호 구문이 올바르지 않습니다."
+  },
+  {
+    "id": "WithdrawSMS_WrongMnemonic",
+    "message": "암호 구문이 올바르지 않습니다."
+  },
+  {
+    "id": "BtcMultisignConfirmTx_FromAddress",
+    "message": "지갑에서 결제",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_GoToWalletPage",
+    "message": "오픈 지갑",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_YouCantSignThisTx",
+    "message": "이 트랜잭션에 서명할 수 있는 권한이 없습니다(멀티시그를 작성했는지 확인).",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_EnterNotice",
+    "message": "단어를 클릭하여 올바른 순서로 배열합니다.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_MnemoniceDeleted",
+    "message": "12자 시드를 이미 저장했습니다. {href}",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_ReadySaveNotice",
+    "message": "잊지 못할 곳에 종이를 보관하세요.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_SaveMnemonicStep1",
+    "message": "1. 종이에 문구를 쓰세요.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_SaveMnemonicStep2",
+    "message": "2. 이것이 프라이빗키라고 서명하는 것을 잊지 마세요 {domain}",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_ShareMnemonicTitle",
+    "message": "당신의 비밀 문구",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_ShowMnemonicNotice",
+    "message": "이 단어들을 올바른 순서로 써서 안전한 곳에 보관하세요.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_Title",
+    "message": "당신의 비밀 문구",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_BeginContinue",
+    "message": "알겠습니다.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_BeginLater",
+    "message": "이후",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "SaveMnemonicModal_BeginNotice",
+    "message": "이제 당신의 비밀 문구 12단어를 보여드리겠습니다.{br}손님이 분실하시면 지갑을 복구할 수 없습니다.",
+    "files": [
+      "src/front/shared/components/modals/SaveMnemonicModal/SaveMnemonicModal.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_CancelRestory",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_MnemonicField",
+    "message": "암호 구문(12단어):",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_MnemonicInvalid",
+    "message": "잘못된 단어 집합을 지정했습니다.",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_Ready",
+    "message": "준비가 되어 있습니다!",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_ReadyNotice",
+    "message": "이제 BTC, ETH 및 기타 통화를 추가할 수 있습니다.",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_RestoryWallet",
+    "message": "회복하다",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_RestroringWallet",
+    "message": "복원 중...",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "RestoryMnemonicWallet_Title",
+    "message": "암호 구문에서 지갑 복구",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx"
+    ]
+  },
+  {
+    "id": "ImportKeys_RestoreMnemonic",
+    "message": "12단어 시드로부터 복원",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "ImportKeys_RestoreMnemonic_Tooltip",
+    "message": "12-word backup phrase – also know as 12-words, “backup”, recovery phrase, mnemonic seed, “seed” – is a unique, randomly generated set of words, that are given to you when you create a wallet. The recovery phrase is used to derive, or generate, all the private keys, which are encrypted directly on your device.",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx",
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "ImportKeys_RestoreMnemonic_Tooltip_withBalance",
+    "message": "주의! 새 시드를 가져오면 현재 잔액이 재설정됩니다. 당신의 현재 자금을 다른 지갑에 저축하세요.",
+    "files": [
+      "src/front/shared/components/modals/RestoryMnemonicWallet/RestoryMnemonicWallet.tsx",
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
+      "src/front/shared/pages/Wallet/CurrenciesList.tsx"
+    ]
+  },
+  {
+    "id": "SweepBannerButton",
+    "message": "완료",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQHeader",
+    "message": "자주 묻는 질문",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx",
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ1_header",
+    "message": "나의 프라이빗 키는 어디에 저장되는가?",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ1_content",
+    "message": "고객의 프라이빗키는 고객의 장비와 브라우저와 연결된 로컬 컴퓨터에만 저장됩니다. 장비와 브라우저가 손상될 경우를 대비해서 백업을 해 놓으세요.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ2_header",
+    "message": "수수료는 무엇이 포함되어 있나요?",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ2_content",
+    "message": "플랫폼에서 수행되는 모든 트렌젝션에 대한 수수료는 표준 마이닝 비용이 지불됩니다.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ2_content1",
+    "message": "For {tokenType} tokens, it is required that you have at least 0.001 {currency} on your wallets. Remember! when sending {tokenType} tokens, you are required to hold some {currency} as miners fees for transactions. This is also the case for all atomic swaps for {currency} & {tokenType} tokens.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ2_content2",
+    "message": "노트 : 구글에 검색하시면 코인에 대한 마이닝 비용을 쉽게 확인하실 수 있습니다.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_header",
+    "message": "왜 마이닝 비용이 높나요?",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_content",
+    "message": "블록체인 비용은 네트워크와 트렌젝션 사이즈에 따라서 결정됩니다.(Faucet 이익이나 다른 작은 트렌젝션에 따라 다양한 이유로 변환시 비용에 영향을 미칠 수 있습니다.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_content1",
+    "message": "아래와 같은 경우에 블록체인 비용을 지불할 수도 있습니다:",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_content2",
+    "message": "1) 블록체인 네트워크가 복잡하거나 순간적으로 로딩될 때, 대부분 블록체인 이자가 불안정하거나 세계적인 이벤트가 있을때;",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_content3",
+    "message": "2) 당신의 암호화폐 계좌는 소액 예금 이력이 있습니다. 만약 당신의 계좌가 소액 예금을 많이 가지고 있다면, 당신의 거래 규모는 많은 입력으로 구성되기 때문에 더 커질 것입니다. 거래 규모가 클수록 블록체인 수수료가 높은 것으로 나타납니다.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ3_content4",
+    "message": "다른 이유들로 블록체인 비용이 많이 발생할 수 있지만, 대부분은 위의 경우에 해당됩니다.",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "HowToWithdrawModal_Title",
+    "message": "인출 방법",
+    "files": [
+      "src/front/shared/components/modals/HowToWithdrawModal/HowToWithdrawModal.tsx",
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_FromAddress",
+    "message": "보낸 사람 주소",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_ToAddress",
+    "message": "주소 지정",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "CommonTextConnect",
+    "message": "연결",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx",
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_CustomAddressOption",
+    "message": "외부 지갑",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_InternalAddressOption",
+    "message": "내 지갑",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_InternalAddressOptionDisabled",
+    "message": "내 지갑 (insufficient balance)",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_InternalCreate",
+    "message": "지갑 생성",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_PlaceholderEnterAddress",
+    "message": "수령 지갑 주소 입력",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_SpecifyAddress",
+    "message": "선택...",
+    "files": [
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_BestPrice",
+    "message": "최상의 가격:",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "History_Activity_Title",
+    "message": "거래내역",
+    "files": [
+      "src/front/shared/pages/History/History.tsx"
+    ]
+  },
+  {
+    "id": "InvoicesList_Title",
+    "message": "청구서",
+    "files": [
+      "src/front/shared/pages/Invoices/InvoicesList/index.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_ButtonShareReady",
+    "message": "준비가 되어 있습니다!",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_CloseButton",
+    "message": "가까운",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_DeclimeInvoiceButton",
+    "message": "거절하다",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_DestinationAddress",
+    "message": "Pay address {destination}",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_FromAddress",
+    "message": "Sender address",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_InfoStatus_Declimed",
+    "message": "거절하다",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_InfoStatus_Pending",
+    "message": "펜딩",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_InfoStatus_Ready",
+    "message": "유급의",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_PayInvoiceButton",
+    "message": "지불하다",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_Sender",
+    "message": "Sender (contact)",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_ShareInvoiceText",
+    "message": "Invoice #{id}-{invoiceNumber} from {contact} to {amount} {type}",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_ShareLink_InfoText",
+    "message": "Send this link to payer for confirm",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_Title",
+    "message": "Invoice #{number}",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_TitleFetch",
+    "message": "Fetching invoice...",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_ToAddress",
+    "message": "Payer address",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "multiSignConfirmTxModal_ButtonClose",
+    "message": "가까운",
+    "files": [
+      "src/front/shared/components/modals/BtcMultisignConfirmTx/BtcMultisignConfirmTx.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_ConfirmTX_NeedConfirm",
+    "message": "다른 소유자 서명 필요",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_ConfirmTX_NeedYourSign",
+    "message": "사인 필요",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_ConfirmTX_SendLink",
+    "message": "링크를 보내다",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_ConfirmTX_Sign",
+    "message": "확인",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_Confirm_Cancelled",
+    "message": "취소",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_Confirm_InProgress",
+    "message": "진행중",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_Confirm_Rejected",
+    "message": "거절",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RowHistory_Confirm_Sending",
+    "message": "전송",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "AdminFee_Message",
+    "message": "Commission {fee}% of the transfer amount, but not less than {min} {currency}",
+    "files": [
+      "src/front/shared/components/AdminFeeInfoBlock/AdminFeeInfoBlock.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2_To",
+    "message": "{amount} successfully transferred to {br}{toAddress}",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2_From",
+    "message": "{amount} successfully received from {br}{fromAddress}",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2_Self",
+    "message": "{amount} successfully self transfer with {br}{address}",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2_External",
+    "message": "{amount} successfully transferred from {br}{fromAddress} to {toAddress}",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_2_Error",
+    "message": "데이터 로드 오류",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_AdminFee",
+    "message": "서비스 비용",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_Confirmed",
+    "message": "컨펌",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_FinalBalance",
+    "message": "최종잔액",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_MinerFee",
+    "message": "채굴수수료",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_NotConfirmed",
+    "message": "~10분",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_StatusReadyHeader",
+    "message": "상황",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "ExitWidget",
+    "message": "퇴장",
+    "files": [
+      "src/front/shared/components/Header/Header.tsx"
+    ]
+  },
+  {
+    "id": "WidgetExitAlertTitle",
+    "message": "한 걸음 더",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "widgetExitAlertMessage",
+    "message": "종료하기 전에 비밀 문구를 저장하십시오!",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "WidgetExitTitle3",
+    "message": "종료 확인",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "widgetApproveApprove",
+    "message": "Yes",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "widgetApproveCancel",
+    "message": "취소",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "widgetApproveMessage",
+    "message": "로그아웃하시겠습니까?",
+    "files": [
+      "src/front/shared/helpers/wpLogoutModal.ts"
+    ]
+  },
+  {
+    "id": "buyByCreditCard",
+    "message": "신용카드 구매",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ButtonUsePin",
+    "message": "핀 코드 사용",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_Cancel",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_Confirm",
+    "message": "트랜잭션 확인",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ErrorMnemonicIncorrect",
+    "message": "지정한 암호 구문이 이 지갑과 일치하지 않습니다",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ErrorMnemonicInvalid",
+    "message": "잘못된 암호 구문(12단어)을 입력했습니다",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ErrorNoPinOrSmall",
+    "message": "PIN 코드는 4자 이상이어야 합니다",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_LabelYourMnemonic",
+    "message": "당신의 비밀 문구",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_LabelYourPin",
+    "message": "핀 코드",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_MnemonicPlaceholder",
+    "message": "암호 구문 입력(12단어)",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_MnemonicUseNote",
+    "message": "권한 부여 서버가 오프라인 상태이거나 PIN 코드를 잊어버린 경우 암호 구문(12단어)을 사용할 수 있습니다",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_PinCodeNotValid",
+    "message": "입력한 PIN 코드가 올바르지 않습니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_PinCodePlaceholder",
+    "message": "PIN 코드 입력",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_PincodeNote",
+    "message": "PIN 코드를 입력하여 트렌젝션을 확인할 수 있음",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ServerOffline",
+    "message": "권한 부여 서버가 오프라인 상태입니다. 나중에 다시 시도하거나 암호 구문(12단어)을 사용합니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_ShipButton",
+    "message": "진행 중...",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_Title",
+    "message": "거래철회 확인",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_UpMessage",
+    "message": "PIN-Code를 입력하여 거래를 확인합니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_UpMessageMnemonic",
+    "message": "트랜잭션 확인 시 비밀 문장 삽입(12단어)",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawPINProtected_UseMnemonicButton",
+    "message": "비밀 문장 사용(12단어)",
+    "files": [
+      "src/front/shared/components/modals/WithdrawBtcPin/WithdrawBtcPin.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmActivatePIN_Message",
+    "message": "이 유형의 월렛이 활성화되었습니까? 월렛을 활성화하려면 어떻게 해야 합니까?",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmActivatePIN_No",
+    "message": "No",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmActivatePIN_Title",
+    "message": "PIN-보호된 BTC 월렛 활성화",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmActivatePIN_Yes",
+    "message": "Yes",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_FinalBalances",
+    "message": "최종 잔고",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_IsOurAddress",
+    "message": "(Your)",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_Menu_ActivatePinProtected",
+    "message": "활성화됨",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ActivateWalletButton",
+    "message": "지갑 활성화",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ButtonCancel",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ButtonFinish",
+    "message": "준비가 되어 있습니다!",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ButtonSaveMnemonic",
+    "message": "Save",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ConfirmRestory",
+    "message": "월렛 복원",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_EnterPinCodeBottomMessage",
+    "message": "PIN 코드 가져오기",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_EnterPinCodeUpMessage",
+    "message": "PIN-보호된 BTC 월렛 활성화",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ErrorMnemonicIncorrect",
+    "message": "The specified secret phrase does not match this wallet",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ErrorMnemonicInvalid",
+    "message": "You entered an invalid secret phrase (12 words)",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ErrorNoPinOrSmall",
+    "message": "PIN-Code must be at least 4 characters",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ErrorPinCodesNotEqueals",
+    "message": "PIN 코드가 일치하지 않습니다.",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ErrorWalletLocked",
+    "message": "이 계정은 다른 PIN-Code에 의해 등록 및 보호됩니다. Please enter가 PIN-Code를 검증했습니다",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_FinishMessage",
+    "message": "보호된 지갑이 활성화됨",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_HowToWithdraw",
+    "message": "자금 출금하는 법",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Instruction_Copied",
+    "message": "복사",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Instruction_Copy",
+    "message": "복사됨",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Instruction_Download",
+    "message": "다운로드",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Instruction_Downloading",
+    "message": "다운로딩 중",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Instruction_Message",
+    "message": "서비스 중단에 대한 정보",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_LabelConfirmYourPin",
+    "message": "PIN 코드 확인",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_LabelYourMnemonic",
+    "message": "당신의 비밀 문구",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_LabelYourPinCode",
+    "message": "핀 코드",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_MnemonicPlaceholder",
+    "message": "암호 구문 입력(12단어)",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_PinCodeConfirmPlaceholder",
+    "message": "PIN 코드 확인",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_PinCodePlaceholder",
+    "message": "PIN 코드 입력",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_PinServerOffline",
+    "message": "Authorization 서버는 오프라인입니다.",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_RestoryBottomMessage",
+    "message": "암호 구문 입력(12단어)",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_RestoryUpMessage",
+    "message": "PIN 보호 BTC 월렛 복원",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_SaveYourMnemonic",
+    "message": "비밀 문장 저장하기(12단어)",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Share",
+    "message": "공유하기",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_ShipButton",
+    "message": "진행 중...",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_Title",
+    "message": "활성 PIN 보호 월렛",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_UseMnemonicButton",
+    "message": "월렛 복원",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_UseMnemonicRestoreNote",
+    "message": "씨드문구로 월렛을 복구할 수 있습니다(12단어)",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_UsePinButton",
+    "message": "핀 코드 사용",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "RegisterPINProtectedBTC_YouNeedSaveMnemonic",
+    "message": "To activate 2fa you must save secret phrase (12 words).",
+    "files": [
+      "src/front/shared/components/modals/RegisterPINProtected/RegisterPINProtected.tsx"
+    ]
+  },
+  {
+    "id": "privateKeyCurrency",
+    "message": "Your {cur} private key",
+    "files": [
+      "src/front/shared/components/modals/PrivateKeysModal/PrivateKeysModal.tsx"
+    ]
+  },
+  {
+    "id": "ReceiveModal_ButtonCancel",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "ReceiveModal_ButtonSaveMnemonic",
+    "message": "Save",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "ReceiveModal_SaveYourMnemonic",
+    "message": "씨드문구를 꼭 저장하세요. 긴급한 상황이 발생할 경우에 자금을 지킬 수 있는 유일한 방법입니다.",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "ReceiveModal_YouNeedSaveMnemonic",
+    "message": "당신은 당신의 씨드 문장을 저장해야 합니다.",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "WalletAddressModal_Message",
+    "message": "Your {cur} address",
+    "files": [
+      "src/front/shared/components/modals/WalletAddressModal/WalletAddressModal.tsx"
+    ]
+  },
+  {
+    "id": "WalletAddressModal_Title",
+    "message": "복사 월렛 주소",
+    "files": [
+      "src/front/shared/components/modals/WalletAddressModal/WalletAddressModal.tsx"
+    ]
+  },
+  {
+    "id": "Withdraw_BalanceDesktop",
+    "message": "{amount} {currency} will be send",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "Withdraw_BalanceMobile",
+    "message": "{amount} {currency}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "Withdraw_FiatBalanceDesktop",
+    "message": "this is ~{amount} {currency}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "Withdraw_FiatBalanceMobile",
+    "message": "~{amount} {currency}",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_ShowAddress",
+    "message": "주소 표시",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_MetamaskNotConnected",
+    "message": "연결 안 함",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "YourWalletbalance",
+    "message": "잔고",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx",
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx"
+    ]
+  },
+  {
+    "id": "AlertModalcreateWallet",
+    "message": "지갑 생성",
+    "files": [
+      "src/front/shared/components/modals/AlertWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "AlertModaldeposit",
+    "message": "보증금",
+    "files": [
+      "src/front/shared/components/modals/AlertWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "alertTitle",
+    "message": "경고",
+    "files": [
+      "src/front/shared/components/modals/AlertWindow/index.tsx"
+    ]
+  },
+  {
+    "id": "AlertOrderNonEnoughtBalance",
+    "message": "스왑을 시작하는 동안 잔고를 높이십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "AlertOrderNonEnoughtBalanceTitle",
+    "message": "잔고가 충분하지 않습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Balance_YouAreHaveNotSignegTx",
+    "message": "{count} transaction needs your confirmation",
+    "files": [
+      "src/front/shared/components/BalanceForm/BalanceForm.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLink_ButtonCancel",
+    "message": "취소",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLink_ButtonSaveMnemonic",
+    "message": "Save",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLink_SaveYourMnemonic",
+    "message": "비밀 문장 저장하기(12단어).",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "multiSignJoinLink_YouNeedSaveMnemonic",
+    "message": "BTC-멀티시그 월렛을 활성화하려면 씨드 문장을 저장해야 합니다.",
+    "files": [
+      "src/front/shared/components/modals/MultisignJoinLink/MultisignJoinLink.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_SaveMnemonicButton",
+    "message": "씨드 문장 저장",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx",
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx",
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_SaveYourMnemonic",
+    "message": "비밀 문장 저장하기(12단어).",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "BTCMS_YouNeedSaveMnemonic",
+    "message": "BTC-멀티시그 월렛을 활성화하려면 씨드 문장을 저장해야 합니다.",
+    "files": [
+      "src/front/shared/pages/Multisign/Btc/Btc.tsx"
+    ]
+  },
+  {
+    "id": "RowWallet_MsConfirmCountMobile",
+    "message": "{count} tx wait your confirm",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WithdrawSMS_SmsConfirming",
+    "message": "거래 확인"
+  },
+  {
+    "id": "MnemonicInputComponent_DeleteText",
+    "message": "단어 삭제 클릭",
+    "files": [
+      "src/front/shared/components/forms/MnemonicInput/MnemonicInput.tsx"
+    ]
+  },
+  {
+    "id": "MnemonicInputComponent_Placeholder",
+    "message": "단어 유형 시작...",
+    "files": [
+      "src/front/shared/components/forms/MnemonicInput/MnemonicInput.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_AvialableBalance",
+    "message": "사용 가능: ",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Banner_YouAreHaveNotSignegTx",
+    "message": "{count} 멀티시그 트랜잭션은 확인을 위해 필요합니다",
+    "files": [
+      "src/front/shared/pages/Wallet/WallerSlider/index.tsx"
+    ]
+  },
+  {
+    "id": "ShowMyMnemonic_copy",
+    "message": "월렛 백업 완료",
+    "files": [
+      "src/front/shared/pages/Wallet/WallerSlider/index.tsx"
+    ]
+  },
+  {
+    "id": "Swap_NeedMoreAmount",
+    "message": "You must have at least {amount} {currency} on your balance. {br} Miner commission {sellFee} {sellCoin} and {buyFee} {buyCoin}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_MinerFees",
+    "message": "마이너 비용",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_ServiceFee",
+    "message": "서비스 비용",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_MetamaskConnect",
+    "message": "연결",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WalletConnectAccountTitle",
+    "message": "계정 연결",
+    "files": [
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx"
+    ]
+  },
+  {
+    "id": "UnknownNetworkConnectedWallet",
+    "message": "알 수 없는 네트워크",
+    "files": [
+      "src/front/shared/components/Header/WalletConnect/index.tsx",
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx"
+    ]
+  },
+  {
+    "id": "MetamaskDisconnect",
+    "message": "지갑 미연결",
+    "files": [
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx",
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx",
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "MM_DisconnectExternalWallet",
+    "message": "Marketmakig works only with internal wallet. Please disconnnect external wallet",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_TurnOffMarketmaking",
+    "message": "Marketmaking disabled because of your external wallet is connected",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "ConfirmBeginSwapOnlyInternal",
+    "message": "제공책의 제공에 대한 수락은 내부 주소에 대해 일시적으로만 가능합니다.",
+    "files": [
+      "src/front/shared/components/modals/ConfirmBeginSwap/ConfirmBeginSwap.tsx"
+    ]
+  },
+  {
+    "id": "offerMessageToUser",
+    "message": "당신은 온라인에 있어야 합니다. 주문은 다른 사용자에게 보이지 않습니다.",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "createOrderMessageForUser",
+    "message": "당신은 온라인에 있어야 합니다. 주문은 다른 사용자에게 보이지 않습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "createOrderNoManyMessageForUser",
+    "message": "균형을 맞추다",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "AddLiquidity",
+    "message": "유동성 공급",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "MainFAQ2_content3",
+    "message": "현재 마이닝 비용 :",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MetamaskNetworkAlert_Message",
+    "message": "Wrong 네트워크, 다른 네트워크로의 전원 전환 {walletTitle} (or disconnect wallet).",
+    "files": [
+      "src/front/shared/containers/App/App.tsx"
+    ]
+  },
+  {
+    "id": "MetamaskNetworkAlert_OkDisconnectWallet",
+    "message": "외부 월렛 디커넥트",
+    "files": [
+      "src/front/shared/containers/App/App.tsx"
+    ]
+  },
+  {
+    "id": "MetamaskNetworkAlert_Title",
+    "message": "주의",
+    "files": [
+      "src/front/shared/containers/App/App.tsx"
+    ]
+  },
+  {
+    "id": "ConnectWalletModal_Cancel",
+    "message": "취소"
+  },
+  {
+    "id": "ConnectWalletModal_Injected",
+    "message": "메타마스크"
+  },
+  {
+    "id": "ConnectWalletModal_Title",
+    "message": "외부 벽면 연결"
+  },
+  {
+    "id": "ConnectWalletModal_WalletConnect",
+    "message": "월렛커넥트",
+    "files": [
+      "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
+    ]
+  },
+  {
+    "id": "FilterTextAll",
+    "message": "모두",
+    "files": [
+      "src/front/shared/components/FilterForm/FilterForm.tsx"
+    ]
+  },
+  {
+    "id": "FilterTextFind",
+    "message": "찾기",
+    "files": [
+      "src/front/shared/components/FilterForm/FilterForm.tsx"
+    ]
+  },
+  {
+    "id": "themeAlt",
+    "message": "{theme} theme",
+    "files": [
+      "src/front/shared/components/Header/ThemeSwitcher.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-finishStep",
+    "message": "잘 했어요. 시작하면 됩니다.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-1",
+    "message": "Welcome to {widgetName}. Take the tour?",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-2",
+    "message": "이것은 당신의 지갑 잔고입니다.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-3",
+    "message": "지갑 내부 및 외부 암호화 화폐 전송에 사용할 버튼.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-4",
+    "message": "이 메뉴를 통해 검색된 제품, 서비스 및 유용한 정보에 대해 스크롤합니다.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-5",
+    "message": "월렛 주소, 개인 키 등을 검색하려면 세 가지 항목을 클릭하십시오.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-6",
+    "message": "최근 거래 목록을 검토하려면 이 버튼을 클릭하십시오.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "widget-tour-step-7",
+    "message": "암호 화폐를 교환하려면 이 버튼을 클릭하십시오.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/WidgetWalletTour.tsx"
+    ]
+  },
+  {
+    "id": "WTH276",
+    "message": "The amount should not exceed your{br} current balance minus mining fee",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "Comment",
+    "message": "댓글",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "ConnectWalletModal_WalletLocked",
+    "message": "월렛이 잠겼습니다. 월렛 언락을 해지하십시요.",
+    "files": [
+      "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
+    ]
+  },
+  {
+    "id": "Exchange_ConnectAddressOption",
+    "message": "지갑 연결",
+    "files": [
+      "src/front/shared/components/Header/WalletConnect/index.tsx",
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx",
+      "src/front/shared/pages/Exchange/AddressSelect/AddressSelect.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "add_notice",
+    "message": "추가 통지",
+    "files": [
+      "src/front/shared/components/Comment/Comment.tsx"
+    ]
+  },
+  {
+    "id": "CreateWallet_ConnectWalletButton",
+    "message": "이더리움 월렛이 있으시면 이것을 사용하세요.",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "ImportKeys_ConnectWallet",
+    "message": "지갑 연결",
+    "files": [
+      "src/front/shared/pages/CreateWallet/CreateWallet.tsx"
+    ]
+  },
+  {
+    "id": "InfoPay_Comment",
+    "message": "댓글",
+    "files": [
+      "src/front/shared/pages/Transaction/TxInfo/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockTotalFee",
+    "message": "당신이 지급할 전체 요금:",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockMinerFee",
+    "message": "마이너 비용:",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockMinerFeeTooltip",
+    "message": "거래 확인에 대한 인센티브로 지불된 암호화폐 통화 금액",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockServiceFee",
+    "message": "서비스 비용",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "FeeInfoBlockServiceFeeConditions",
+    "message": "전체 이전비용보다 적은",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/index.tsx"
+    ]
+  },
+  {
+    "id": "localStorageUserNotification",
+    "message": "✔️ 이 데이터는 사용자의 개인 키를 포함합니다",
+    "files": [
+      "src/front/shared/pages/LocalStorage/LocalStorage.tsx"
+    ]
+  },
+  {
+    "id": "FourthStep37BtcLike",
+    "message": "({currencyName} tx)",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/SecondStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/SecondStep.tsx"
+    ]
+  },
+  {
+    "id": "FourthStep37_BtcLike",
+    "message": "({currencyName} tx)",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/ABSteps/ThirdStep.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapSteps/UTXOSteps/ThirdStep.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_FirstStep",
+    "message": "기달려 주세요",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_CheckingBalance",
+    "message": "잔고 현황..",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_WaitPatricipantDeposit",
+    "message": "다른 참가자들을 위해 입금을 기다려 주세요 {buyCurrency}",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_DepositingYourSide",
+    "message": "Depositing {sellCurrency}.{br}It can take a few minutes",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_WithdrawRequest",
+    "message": "Requesting withdrawal from {buyCurrency} Contract",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_Finish",
+    "message": "{buyCurrency} tokens was transferred to your wallet. Check the balance",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_End",
+    "message": "온라인 스왑을 이용해주셔서 감사드립니다!",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_MakerWaitTakerWithdraw",
+    "message": "Waiting for {buyCurrency} Owner to add a Secret Key to {sellCurrency} Contact",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx",
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_CreateSecret",
+    "message": "비밀키를 만들기",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/TakerUtxoToAb.tsx"
+    ]
+  },
+  {
+    "id": "SwapProgressText_VerifyScript",
+    "message": "The {buyCurrency} Script was created and charged",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapList/SwapProgressTexts/MakerAbToUtxo.tsx"
+    ]
+  },
+  {
+    "id": "localStorageBtnBack",
+    "message": "Back",
+    "files": [
+      "src/front/shared/pages/LocalStorage/LocalStorage.tsx"
+    ]
+  },
+  {
+    "id": "FAQServiceFee",
+    "message": "서비스 비용(출금 시에만 적용됨):",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "FAQServiceFeeDescription",
+    "message": "no less than",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "NetworkStatusPeersOnlineMessage",
+    "message": "구매자와 제공자를 매칭하는데 몇분의 시간이 걸립니다. 우리는 고객 정보를 중앙화된 서버에 저장하는 방식이 아닙니다. 대신 토렌토 네트워크처럼 P2P 네트워크를 사용합니다. 이것의 의미는 네트워크 안에서 각각의 유저들 자신이 PEER가 됩니다. 만약 몇분동안, 제공자를 찾지 못한다면 해당 거래는 매칭이 되지 않습니다.",
+    "files": [
+      "src/front/shared/components/NetworkStatus/NetworkStatus.tsx"
+    ]
+  },
+  {
+    "id": "DebugStoredDataLink",
+    "message": "저장된 데이터 표시",
+    "files": [
+      "src/front/shared/pages/Swap/Debug/Debug.tsx"
+    ]
+  },
+  {
+    "id": "DebugSwapDataTitle",
+    "message": "스왑 데이터:",
+    "files": [
+      "src/front/shared/pages/Swap/Debug/Debug.tsx"
+    ]
+  },
+  {
+    "id": "OrderBookOffersNoteOverLoader",
+    "message": "온라인 피어에서 오퍼링 보기",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "OrderBookOffersNoteUnderLoader",
+    "message": "몇분이 걸릴 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "Swap_MetamaskAttention",
+    "message": "월렛에서 거래 확인하기 \"{walletName}\" wallet",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "FAQFeeApiLink",
+    "message": "(source)",
+    "files": [
+      "src/front/shared/components/FAQ/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "Swap_OwnerHasLockedUTX",
+    "message": "Swap paused because you has unconfirmed transaction in mempool. Waiting confirm",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "Swap_SellerHasLockedUTX",
+    "message": "Swap paused because owner has unconfirmed transaction in mempool. Waiting confirm",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "OrderBookOffersOfflineNote",
+    "message": "만약 입찰자가 없는 경우, 온라인 입찰자가 아닌 사용자가 입찰자를 게시할 수 있는 방법이 없습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/Orders/OrderBook/OrderBook.tsx"
+    ]
+  },
+  {
+    "id": "Swap_UtxoBroadcastError",
+    "message": "스왑 일시 중지 브로드캐스트 tx가 오류와 함께 추가됨 \"{error}\"",
+    "files": [
+      "src/front/shared/pages/Swap/UTXOSwap/SwapProgress/SwapProgress.tsx"
+    ]
+  },
+  {
+    "id": "WalletRowNodeIsDownTooltipMessage",
+    "message": "트렌젝션을 강제할 수는 없습니다.",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "WithdrowBalanceNotEnoughtPrompt",
+    "message": "전송하기에 부족한 자금",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "WithdrowTokenCurrencyBalance",
+    "message": "충분하지 않습니다 {tokenCurrency} 마이닝 비용 잔고",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx"
+    ]
+  },
+  {
+    "id": "CreateOffer_BuyToken_NeedEth",
+    "message": "To buy {buyCurrency} you need to have {ethAmount} ETH to pay the commission",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "CreateOffer_SellToken_NeedEth",
+    "message": "To sell {sellCurrency} you need to have {ethAmount} ETH to pay the commission",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx"
+    ]
+  },
+  {
+    "id": "RowHistoryInvoiceContact",
+    "message": "Contact:",
+    "files": [
+      "src/front/shared/pages/History/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "AtomicSwap_Title",
+    "message": "Atomic swap",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx",
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_Title",
+    "message": "Turbo swap",
+    "files": [
+      "src/front/shared/components/modals/OfferModal/AddOffer/AddOffer.tsx",
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_You",
+    "message": "You",
+    "files": [
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_Maker",
+    "message": "메이커",
+    "files": [
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_Taker",
+    "message": "테이커",
+    "files": [
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_StatusPending",
+    "message": "펜딩...",
+    "files": [
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboSwap_StatusFinished",
+    "message": "끝! ",
+    "files": [
+      "src/front/shared/pages/TurboSwap/TurboSwap.tsx"
+    ]
+  },
+  {
+    "id": "TurboIcon_Tip",
+    "message": "신뢰할만한 마켓 메이커를 통해 빠르고 저렴한 것을 찾습니다. 적은 금액을 추천합니다",
+    "files": [
+      "src/front/shared/components/ui/TurboIcon/TurboIcon.tsx"
+    ]
+  },
+  {
+    "id": "ButtonPendingState",
+    "message": "펜딩",
+    "files": [
+      "src/front/shared/components/controls/Button/Button.tsx"
+    ]
+  },
+  {
+    "id": "DropDownNoOptionsInTheList",
+    "message": "옵션 없음",
+    "files": [
+      "src/front/shared/components/ui/DropDown/index.tsx"
+    ]
+  },
+  {
+    "id": "menu.marketmaker",
+    "message": "벌다",
+    "files": [
+      "src/front/shared/components/Header/config.tsx"
+    ]
+  },
+  {
+    "id": "FormattedMessageIdApprove",
+    "message": "승인하다 {token}",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx",
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/Footer.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeCustom",
+    "message": "사용자 지정",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeDescriptionCustom",
+    "message": "사용자 지정 수수료 설정.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeDescriptionFast",
+    "message": "1-2개의 블록에 대한 트렌젝션 평균 컨펌입니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeDescriptionMedium",
+    "message": "3-6개의 블록에 대한 트렌젝션 평균 컨펌입니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeDescriptionSlow",
+    "message": "7개 이상의 블록에서 확인된 거래 수수료입니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeFast",
+    "message": "빠른",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeMedium",
+    "message": "중간",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeSlow",
+    "message": "느림",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeTimeFast",
+    "message": "~5~20분",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeTimeMedium",
+    "message": "~25-60분",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "FeeRadiosSpeedTypeTimeSlow",
+    "message": "60분 이상",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/components/FeeInfoBlock/FeeRadios/index.tsx"
+    ]
+  },
+  {
+    "id": "ExchangeTokenWasApproved",
+    "message": "토큰이 승인되었습니다.{br}Explorer link: {txLink}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "Orderbook",
+    "message": "주문서",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_TotalSum",
+    "message": "- BTC의 합과 {token}의 잔고는 시간 경과에 따라 크게 달라질 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_Audit",
+    "message": "- 앱이 다음에서 감사를 전달했습니다 {link}.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_NotStore",
+    "message": "- 많은 자금 또는 대출금액을 저장하지 마세요.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_FundAccess",
+    "message": "- 고객의 자금에 대한 키는 전적으로 고객에게 있습니다. 우리는 고객의 자금에 접근하지 않습니다",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemBody2-5",
+    "message": "위험 고지",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent1",
+    "message": "서비스 구매 또는 판매(스프레드)시 거래소 환율은 마켓 메이커에 따라 차이가 있습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_HowMuchEarn",
+    "message": "본 거래소는 년 10% 정도의 비즈니스모델로 설계되어 있습니다. 만약 제휴된 거래소를 통해 우리의 조건을 충족하지 않을 경우에 유저들을 통해 제공되는 거래소를 고려할 수 있습니다. 그 경우 제공자에게 인센티브를 제공할 계획입니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent4",
+    "message": "(개발 중)",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent5",
+    "message": "출금은 언제든 할 수 있으며, 최소 보유기간이 별도로 없습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent6",
+    "message": "커뮤니티에게 공지하는 바는 참여한 모든 맴베들은 본 프로젝트를 통해 스왑할 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle7",
+    "message": "Why do I need {token}? I am only interested in earning BTC.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent7-1",
+    "message": "You can replenish only with Bitcoin. But inevitably, at some times, your BTC balance may decrease and {token} may increase, and vice versa.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent7-2",
+    "message": "언제든, 총 잔고의 합계는 이전보다 클 것입니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent7-3",
+    "message": "If you want to withdraw BTC, but some of them are in {token}, then you will have to change {token} yourself, for example, through Binance exchange.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle8",
+    "message": "왜 사용자들은 바이넨스 거래소에서 직접 거래를 할 수 없습니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemContent8",
+    "message": "우리의 고객들은 분산화 시스템을 사랑하고 지지합니다. 우리의 거래소 작업은 스마트컨트렉트로 진행되며, 우리는 고객 자금을 3시간 이상 동결하지 않습니다. ",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle1",
+    "message": "왜 작동하지 않습니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_Safety",
+    "message": "안전한가요? 자금이 삭감되지는 않습니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle3",
+    "message": "내가 얼마나 벌 수 있습니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle4",
+    "message": "시작에 필요한 최소 잔액은 얼마입니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle5",
+    "message": "시장 메이킹의 최소 기간은 얼마입니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ItemTitle6",
+    "message": "어떻게 하면 수익을 창출할 수 있습니까?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_Choose_Farming_Body1",
+    "message": "LP 토큰을 동결하여 SWAP 토큰에서 추가 보상을 받으십시오."
+  },
+  {
+    "id": "MM_Choose_Farming_Button",
+    "message": "파밍 시작"
+  },
+  {
+    "id": "MM_Choose_Farming_Title",
+    "message": "파밍"
+  },
+  {
+    "id": "MM_Choose_InBrowser_Body1",
+    "message": "시도하기에 적합합니다."
+  },
+  {
+    "id": "MM_Choose_InBrowser_Body2",
+    "message": "브라우저를 닫으면 수입이 중단됩니다."
+  },
+  {
+    "id": "MM_Choose_InBrowser_Button",
+    "message": "브라우저에서 시작"
+  },
+  {
+    "id": "MM_Choose_InBrowser_Title",
+    "message": "브라우저의 마켓메이커"
+  },
+  {
+    "id": "MM_Choose_Server_Body1",
+    "message": "고급 사용자에게 적합합니다."
+  },
+  {
+    "id": "MM_Choose_Server_Body2",
+    "message": "The server is required to deploy the Docker image."
+  },
+  {
+    "id": "MM_Choose_Server_Button",
+    "message": "Read the instructions"
+  },
+  {
+    "id": "MM_Choose_Server_Title",
+    "message": "Marketmaker server"
+  },
+  {
+    "id": "MM_Choose_Title",
+    "message": "Choose a way"
+  },
+  {
+    "id": "MM_Choose_Uniswap_Body1",
+    "message": "Suitable for advanced users."
+  },
+  {
+    "id": "MM_Choose_Uniswap_Body2",
+    "message": "Earn when others sell or buy SWAP trolls."
+  },
+  {
+    "id": "MM_Choose_Uniswap_Button",
+    "message": "Create a pool"
+  },
+  {
+    "id": "MM_Choose_Uniswap_Title",
+    "message": "Create uniswap-pool SWAP/ETH"
+  },
+  {
+    "id": "MM_Promo_Title",
+    "message": "Earn interest on {utxoTitle}",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerPromo.tsx",
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_Promo_TitleBody",
+    "message": "On swap.io users exchange {utxoCoin} for {token} (a token that costs like {utxoCoin}, but works on {Ab_Title}), and vice versa.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerPromo.tsx",
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MMPercentEarn",
+    "message": "모든 스왑에서 0.5%의 수익을 벌 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_BTCBalance",
+    "message": "Balance {utxoCoin}:",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_ConnectMetamask",
+    "message": "메타마스크 연결",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_DepositeWallet",
+    "message": "상위레벨로 이전할 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_DisconnectMetamask",
+    "message": "메타마스크 연결 해제",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_ETHBalance",
+    "message": "Balance {AB_Coin}: {balance} (for miner fees)",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_StartHere",
+    "message": "여기서 마케팅을 시작하세요",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_Wallet_Required",
+    "message": "A hot wallet is required to launch marketmaking ({utxoCoin}, {AB_Coin}, {token}).",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_Wallet_Restore",
+    "message": "12단어 시드로부터 복원",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_NotEnoughCoins",
+    "message": "Insufficient funds. You need to top up your {utxoCoin} or {token}",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_NotEnoughtEth",
+    "message": "Not enough {AB_Coin} to pay the miners commission. You need to have at least 0.02 {AB_Coin}",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_Empty",
+    "message": "You have not any swaps, turn on MM and wait when someone accept your orders",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_LockTime",
+    "message": "잠금 시간",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_Status",
+    "message": "상태",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_Step",
+    "message": "스텝",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_Title",
+    "message": "스왑 히스토리",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_YouBuy",
+    "message": "구매",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_SwapHistory_YouSell",
+    "message": "판매",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_ToggleText",
+    "message": "마켓 메이킹 {utxoCoin}/{token}",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_TokenBalance",
+    "message": "잔고 {token}:",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_TotalBalance",
+    "message": "{token}, BTC"
+  },
+  {
+    "id": "MM_ToggleTextEnabled",
+    "message": "주의! 고객은 온라인에서만 거래가 가능합니다...",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_WarningMessage",
+    "message": "Warning! You must stay online all the time, otherwise you will not earn or if the swap is processing (can takes a few hour) you may LOOSE your funds! If you can't guarantee long uptime - turn off marketmakeing.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_ToggleTextDisabled",
+    "message": "수익을 창출하기 위해서 토클을 활성화하세요.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_TotalEarned",
+    "message": "총 수익금 :",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_MarketmakingSimbols",
+    "message": "{token} + {utxoCoin}",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_MarketmakingBalanceTitle",
+    "message": "총 유동성 :",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_whatIsWBTCTooltip1",
+    "message": "{tokenFullName} ({token}) is an {tokenStandart} token that represents {utxoTitle} ({utxoCoin}) on the {blockchainName} blockchain.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_whatIsWBTCTooltip2",
+    "message": "{token} was created to allow {utxoTitle} holders to participate in decentralized finance (“DeFi”) apps that are popular on {blockchainName}.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerSettings.tsx"
+    ]
+  },
+  {
+    "id": "MM_InstallExtentionTitle",
+    "message": "크롬에서 확장하여 수익 창출하기",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerPromo.tsx"
+    ]
+  },
+  {
+    "id": "MM_InstallExtentionBtn",
+    "message": "Install Chrome Extension",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerPromo.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_HighRisk",
+    "message": "- 어떤 암호화폐 운영이든 암호화폐는 고위험을 수반합니다.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ImpermanentLoss",
+    "message": "Impermanent Loss 는 무엇인가요?",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_FAQ_ImpermanentLossContent",
+    "message": "At any given time, the sum of these balances will be greater than before. If you want to withdraw BTC, but some of them are in {token}, then you will have to change {token} yourself, for example, through Binance exchange.",
+    "files": [
+      "src/front/shared/pages/Marketmaker/FAQ.tsx"
+    ]
+  },
+  {
+    "id": "MM_InstallDevExtention",
+    "message": "개발 버전 다운로드",
+    "files": [
+      "src/front/shared/pages/Marketmaker/MarketmakerPromo.tsx"
+    ]
+  },
+  {
+    "id": "CleanLocalStorage",
+    "message": "Oops, looks like the app needs to clean your local storage. Please save your 12 words seed phrase (if you have not saved it before), then clear local storage by clicking on the button and import 12 words seed again. Sorry for the inconvenience. {indent} {button}",
+    "files": [
+      "src/front/shared/components/Header/Header.tsx"
+    ]
+  },
+  {
+    "id": "WalletEmptyBalance",
+    "message": "사용할 수 있는 월렛 없음",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModal/WithdrawModal.tsx",
+      "src/front/shared/pages/Wallet/Wallet.tsx"
+    ]
+  },
+  {
+    "id": "ClearAndReload",
+    "message": "삭제 및 다시 로드",
+    "files": [
+      "src/front/shared/components/Header/Header.tsx"
+    ]
+  },
+  {
+    "id": "FooterSwapDescription",
+    "message": "Online since 2018. Check our {twitter} and {github} history",
+    "files": [
+      "src/front/shared/components/Footer/Footer.tsx"
+    ]
+  },
+  {
+    "id": "AppErrorMessage",
+    "message": "잘못 되었음. 홈페이지로 돌아가 다시 로딩 하기",
+    "files": [
+      "src/front/shared/components/ErrorBoundary/index.tsx"
+    ]
+  },
+  {
+    "id": "NotEnoughForBuy",
+    "message": "You must have at least Miner commission {buyFee} {buyCoin}",
+    "files": [
+      "src/front/shared/pages/Exchange/AtomicSwap.tsx"
+    ]
+  },
+  {
+    "id": "WalletRow_MetamaskNotAvailableNetwork",
+    "message": "다른 것을 선택",
+    "files": [
+      "src/front/shared/pages/Wallet/Row/Row.tsx"
+    ]
+  },
+  {
+    "id": "bankCardButtonDescription",
+    "message": "In the modal window, you have to go through several steps to exchange fiat funds for {buyCurrency}. Select {buyCurrency} in the window and specify the address of your wallet (you can copy it below). Wait until the funds are credited to your address. Then you can buy tokens using it.",
+    "files": [
+      "src/front/shared/components/Header/WidgetTours/QuickSwapFormTour.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx"
+    ]
+  },
+  {
+    "id": "noActiveOrders",
+    "message": "활성 순서 없음",
+    "files": [
+      "src/front/shared/components/LimitOrders/index.tsx"
+    ]
+  },
+  {
+    "id": "rate",
+    "message": "이자",
+    "files": [
+      "src/front/shared/components/LimitOrders/index.tsx"
+    ]
+  },
+  {
+    "id": "youPay",
+    "message": "You Pay",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderSettings.tsx",
+      "src/front/shared/components/LimitOrders/index.tsx"
+    ]
+  },
+  {
+    "id": "yourOrders",
+    "message": "주문 내역",
+    "files": [
+      "src/front/shared/components/LimitOrders/index.tsx"
+    ]
+  },
+  {
+    "id": "limitOrderCreated",
+    "message": "주문을 성공적으로 작성하였습니다.",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/index.tsx"
+    ]
+  },
+  {
+    "id": "limitOrderIsNotCreated",
+    "message": "무언가 잘못 되었습니다. 잠시 후 다시 시도하세요.",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/index.tsx"
+    ]
+  },
+  {
+    "id": "create",
+    "message": "생성하다",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
+    ]
+  },
+  {
+    "id": "limitOrder",
+    "message": "제한 주문",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
+    ]
+  },
+  {
+    "id": "notEnoughTokensForSwap",
+    "message": "스왑을 위해 모든 화폐를 사용할 수 없습니다. 토큰이 충분하지 않은 것 같습니다. 토큰을 지갑에 추가하세요.",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
+    ]
+  },
+  {
+    "id": "transacton",
+    "message": "거래내역",
+    "files": [
+      "src/front/shared/components/notifications/Transaction/index.tsx",
+      "src/front/shared/pages/Transaction/Transaction.tsx"
+    ]
+  },
+  {
+    "id": "transactionIsCompleted",
+    "message": "트랜잭션이 완료됨",
+    "files": [
+      "src/front/shared/components/notifications/Transaction/index.tsx"
+    ]
+  },
+  {
+    "id": "viewTransaction",
+    "message": "트랜잭션 보기",
+    "files": [
+      "src/front/shared/components/notifications/Transaction/index.tsx"
+    ]
+  },
+  {
+    "id": "atomicSwap",
+    "message": "Atomic swap",
+    "files": [
+      "src/front/shared/pages/Exchange/index.tsx"
+    ]
+  },
+  {
+    "id": "quickSwap",
+    "message": "빠른 스왑",
+    "files": [
+      "src/front/shared/pages/Exchange/index.tsx"
+    ]
+  },
+  {
+    "id": "gasLimit",
+    "message": "가스 한계",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "gasLimitNotice",
+    "message": "가스 한계는 사용하고자 하는 최대 가스 단위량입니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "gasPrice",
+    "message": "가스 가격",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "gasPriceNotice",
+    "message": "가스 가격은 각 가스 단위당 지불해야하는 이더 금액을 지정합니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "createLimitOrder",
+    "message": "제한 주문 작성"
+  },
+  {
+    "id": "limitOrders",
+    "message": "Limit orders"
+  },
+  {
+    "id": "swap",
+    "message": "교환",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Footer.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/SourceActions.tsx"
+    ]
+  },
+  {
+    "id": "fee",
+    "message": "요금",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "network",
+    "message": "네트워크",
+    "files": [
+      "src/front/shared/components/modals/WalletConnectAccount/WalletConnectAccount.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "buyViaBankCard",
+    "message": "뱅크 카드로 구매",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/InputForm.tsx"
+    ]
+  },
+  {
+    "id": "slippageNotice",
+    "message": "이 백분율보다 더 많은 값에 의해 가격이 변경될 경우 트랜잭션이 반환됩니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "slippageTolerance",
+    "message": "트렌젝션 실패 허용 오차",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "addressOfYourWallet",
+    "message": "당신의 지갑 주소:",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "total",
+    "message": "전체",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "allOrders",
+    "message": "All orders",
+    "files": [
+      "src/front/shared/components/LimitOrders/AllOrdersHeader.tsx"
+    ]
+  },
+  {
+    "id": "buyToken",
+    "message": "사기",
+    "files": [
+      "src/front/shared/components/LimitOrders/Row.tsx"
+    ]
+  },
+  {
+    "id": "Chain",
+    "message": "체인",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderSettings.tsx"
+    ]
+  },
+  {
+    "id": "noOptions",
+    "message": "옵션 없음",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderSettings.tsx"
+    ]
+  },
+  {
+    "id": "disclaimerAboutBetaVersion",
+    "message": "*위험고지: 거래소는 3차 0x 유동성 프로토콜을 사용합니다. 해당 프로토콜에서 발생하는 리스크에 주의하시기 바랍니다."
+  },
+  {
+    "id": "insufficientBalance",
+    "message": "자금이 부족함"
+  },
+  {
+    "id": "insufficientLiquidity",
+    "message": "불충분한 풀 유동성",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "addNewCurrencyMessage",
+    "message": "월렛 페이지에서 통화 버튼 추가 버튼을 클릭합니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "checkTokenInTheSwapList",
+    "message": "리스트에서 당신의 토큰을 볼 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "choseTokenStandard",
+    "message": "표준 토큰을 선택하고 버튼을 클릭",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "confirmTokenAddition",
+    "message": "정보를 확인하고 토큰 추가 확인.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "createNewPoolInAggregates",
+    "message": "지원되는 소스 중 하나를 선택하시고 당신이 가지고 있는 토큰으로 새로운 풀을 생성하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "detailedInformation",
+    "message": "세부 정보",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "enterTokenContractAddress",
+    "message": "토큰 컨트렉트 주소 입력.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "howToAddToken",
+    "message": "토큰 추가 방법",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "ifYouDoNotSeeNewToken",
+    "message": "몇몇 토큰은 거래할 수 없습니다, 왜냐하면 당신이 보유한 토큰의 유동성이 충분하지 않기 때문입니다. 거래를 원하면 새로운 토큰을 생성하십시요.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "youWillSeeYourToken",
+    "message": "보유한 토큰에 대한 유동성을 공급한 후에 거래할 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/TokenInstruction.tsx"
+    ]
+  },
+  {
+    "id": "executeOrder",
+    "message": "주문 실행",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "limitOrderFillDescription",
+    "message": "You are able to spend not your entire balance. Enter the amount of {sellToken} you want to spend.",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "remainingMakerAmount",
+    "message": "남겨진 메이커 계정",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "remainingTakerAmount",
+    "message": "남겨진 테이커 계정",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "youCanSpend",
+    "message": "보낼 수 있습니다.",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "yourBalance",
+    "message": "현재 잔고",
+    "files": [
+      "src/front/shared/components/LimitOrders/OrderPurchaseModal.tsx"
+    ]
+  },
+  {
+    "id": "customSlippageValueNotice",
+    "message": "커스텀 거래 실패 수치를 고급설정에서 설정할 수 있습니다."
+  },
+  {
+    "id": "insufficientSlippage",
+    "message": "불충분한 미끄러짐, 양을 늘려주세요",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "notEnoughAssetsNotice",
+    "message": "You don't have available assets for {networkName} to exchange. Please change the network or add a custom asset to the wallet.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/index.tsx"
+    ]
+  },
+  {
+    "id": "disclaimerAbout1inch",
+    "message": "* 거부 : 제한 주문은 제 3자인 3rd Inch Limit Order 프로토콜에서 제공되며 베타버전임을 공지합니다. 프로세스에 대한 위험에 대해 주의하시기 바랍니다.",
+    "files": [
+      "src/front/shared/components/modals/LimitOrder/ModalForm.tsx"
+    ]
+  },
+  {
+    "id": "Connect",
+    "message": "연결",
+    "files": [
+      "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
+    ]
+  },
+  {
+    "id": "chooseNetwork",
+    "message": "네트워크 추가",
+    "files": [
+      "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
+    ]
+  },
+  {
+    "id": "chooseWallet",
+    "message": "지갑 추가",
+    "files": [
+      "src/front/shared/components/modals/ConnectWalletModal/ConnectWalletModal.tsx"
+    ]
+  },
+  {
+    "id": "approveTokenFirst",
+    "message": "Please approve {token} first",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "InvoiceInfoModal_Comment",
+    "message": "댓글",
+    "files": [
+      "src/front/shared/components/modals/InfoInvoice/InfoInvoice.tsx"
+    ]
+  },
+  {
+    "id": "howToDeposit",
+    "message": "입금 방법",
+    "files": [
+      "src/front/shared/components/modals/ReceiveModal/ReceiveModal.tsx"
+    ]
+  },
+  {
+    "id": "tryAnyway",
+    "message": "다시 도전"
+  },
+  {
+    "id": "unknownSwapProblemHasOccurred",
+    "message": "알 수 없는 문제가 발생했습니다. 이 피어를 교환할 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "SaveKe33",
+    "message": "다운로드",
+    "files": [
+      "src/front/shared/components/SaveKeys/SaveKeys.tsx"
+    ]
+  },
+  {
+    "id": "invalidSlippagePercent",
+    "message": "미끄러짐 확률의 불일치",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "source",
+    "message": "출처",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Header.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "transactionDeadline",
+    "message": "트렌젝션 데드라인 (분)",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "transactionMayBeFrontrun",
+    "message": "트랜잭션이 프런트 런일 수 있습니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "transactionMayFail",
+    "message": "트랜잭션이 실패할 수 있음",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Settings.tsx"
+    ]
+  },
+  {
+    "id": "liquidityPoolProblem",
+    "message": "유동성 풀에 약간의 문제가 있ㅅ습니다. 제원 섹션을 변경하세요.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "doNotHaveNativeCurrencyBalance",
+    "message": "거래 수수료를 지불할 네이티브 통화 잔액이 없습니다",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "addLiquidity",
+    "message": "유동성 추가",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Footer.tsx",
+      "src/front/shared/pages/Exchange/QuickSwap/SourceActions.tsx"
+    ]
+  },
+  {
+    "id": "approveBothTokens",
+    "message": "먼저 두 토큰을 모두 승인하십시오.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "liquidityPairDoesNotExist",
+    "message": "이 페어링은 유동성이 없습니다. 당신이 첫번째 새로운 토큰 생성자이고, 첫번째 유동성 공급자입니다.",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  },
+  {
+    "id": "aggregator",
+    "message": "제공 회사",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Header.tsx"
+    ]
+  },
+  {
+    "id": "settings",
+    "message": "세팅",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Header.tsx"
+    ]
+  },
+  {
+    "id": "aggregatorFeeDescription",
+    "message": "The percentage of the purchase amount that charged as a commission",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/UserInfo.tsx"
+    ]
+  },
+  {
+    "id": "failedTransaction",
+    "message": "트랜잭션 실패",
+    "files": [
+      "src/front/shared/components/notifications/Transaction/index.tsx"
+    ]
+  },
+  {
+    "id": "amountNoMoreThenBalance",
+    "message": "금액은 당신의 잔액보다 작아야 합니다.",
+    "files": [
+      "src/front/shared/components/modals/WithdrawModalMultisig/WithdrawModalMultisigUser.tsx"
+    ]
+  },
+  {
+    "id": "Search",
+    "message": "Search",
+    "files": [
+      "src/front/shared/components/modals/AddCustomToken/index.tsx"
+    ]
+  },
+  {
+    "id": "aggregatorCannotUseThisNetwork",
+    "message": "Aggregator cannot use this network. Please choose another",
+    "files": [
+      "src/front/shared/pages/Exchange/QuickSwap/Feedback.tsx"
+    ]
+  }
+]

@@ -1,0 +1,22 @@
+.content {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.text {
+  font-size: 1.5em;
+
+  @media all and (max-width: 480px) {
+    font-size: 1em;
+  }
+}
+
+.key {
+  font-size: 1em;
+  word-break: break-all;
+
+  @media all and (max-width: 480px) {
+    font-size: 0.8em;
+  }
+}
